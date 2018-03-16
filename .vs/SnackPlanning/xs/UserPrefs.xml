@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{2F49E820-D4D5-4762-B585-9F3F05388365}|Default">
+  <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.FA69R0307363" AndroidDesignerPreferredTheme="MyTheme" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Resources/values/styles.xml" Line="14" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

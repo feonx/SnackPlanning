@@ -3360,44 +3360,44 @@ namespace SnackPlanning.Droid
 		public partial class Color
 		{
 			
-			// aapt resource value: 0x7f0d0050
-			public const int abc_background_cache_hint_selector_material_dark = 2131558480;
-			
 			// aapt resource value: 0x7f0d0051
-			public const int abc_background_cache_hint_selector_material_light = 2131558481;
+			public const int abc_background_cache_hint_selector_material_dark = 2131558481;
 			
 			// aapt resource value: 0x7f0d0052
-			public const int abc_btn_colored_borderless_text_material = 2131558482;
+			public const int abc_background_cache_hint_selector_material_light = 2131558482;
 			
 			// aapt resource value: 0x7f0d0053
-			public const int abc_btn_colored_text_material = 2131558483;
+			public const int abc_btn_colored_borderless_text_material = 2131558483;
 			
 			// aapt resource value: 0x7f0d0054
-			public const int abc_color_highlight_material = 2131558484;
+			public const int abc_btn_colored_text_material = 2131558484;
 			
 			// aapt resource value: 0x7f0d0055
-			public const int abc_hint_foreground_material_dark = 2131558485;
+			public const int abc_color_highlight_material = 2131558485;
 			
 			// aapt resource value: 0x7f0d0056
-			public const int abc_hint_foreground_material_light = 2131558486;
+			public const int abc_hint_foreground_material_dark = 2131558486;
+			
+			// aapt resource value: 0x7f0d0057
+			public const int abc_hint_foreground_material_light = 2131558487;
 			
 			// aapt resource value: 0x7f0d0000
 			public const int abc_input_method_navigation_guard = 2131558400;
 			
-			// aapt resource value: 0x7f0d0057
-			public const int abc_primary_text_disable_only_material_dark = 2131558487;
-			
 			// aapt resource value: 0x7f0d0058
-			public const int abc_primary_text_disable_only_material_light = 2131558488;
+			public const int abc_primary_text_disable_only_material_dark = 2131558488;
 			
 			// aapt resource value: 0x7f0d0059
-			public const int abc_primary_text_material_dark = 2131558489;
+			public const int abc_primary_text_disable_only_material_light = 2131558489;
 			
 			// aapt resource value: 0x7f0d005a
-			public const int abc_primary_text_material_light = 2131558490;
+			public const int abc_primary_text_material_dark = 2131558490;
 			
 			// aapt resource value: 0x7f0d005b
-			public const int abc_search_url_text = 2131558491;
+			public const int abc_primary_text_material_light = 2131558491;
+			
+			// aapt resource value: 0x7f0d005c
+			public const int abc_search_url_text = 2131558492;
 			
 			// aapt resource value: 0x7f0d0001
 			public const int abc_search_url_text_normal = 2131558401;
@@ -3408,29 +3408,29 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0d0003
 			public const int abc_search_url_text_selected = 2131558403;
 			
-			// aapt resource value: 0x7f0d005c
-			public const int abc_secondary_text_material_dark = 2131558492;
-			
 			// aapt resource value: 0x7f0d005d
-			public const int abc_secondary_text_material_light = 2131558493;
+			public const int abc_secondary_text_material_dark = 2131558493;
 			
 			// aapt resource value: 0x7f0d005e
-			public const int abc_tint_btn_checkable = 2131558494;
+			public const int abc_secondary_text_material_light = 2131558494;
 			
 			// aapt resource value: 0x7f0d005f
-			public const int abc_tint_default = 2131558495;
+			public const int abc_tint_btn_checkable = 2131558495;
 			
 			// aapt resource value: 0x7f0d0060
-			public const int abc_tint_edittext = 2131558496;
+			public const int abc_tint_default = 2131558496;
 			
 			// aapt resource value: 0x7f0d0061
-			public const int abc_tint_seek_thumb = 2131558497;
+			public const int abc_tint_edittext = 2131558497;
 			
 			// aapt resource value: 0x7f0d0062
-			public const int abc_tint_spinner = 2131558498;
+			public const int abc_tint_seek_thumb = 2131558498;
 			
 			// aapt resource value: 0x7f0d0063
-			public const int abc_tint_switch_track = 2131558499;
+			public const int abc_tint_spinner = 2131558499;
+			
+			// aapt resource value: 0x7f0d0064
+			public const int abc_tint_switch_track = 2131558500;
 			
 			// aapt resource value: 0x7f0d0049
 			public const int accent = 2131558473;
@@ -3483,8 +3483,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0d003c
 			public const int design_bottom_navigation_shadow_color = 2131558460;
 			
-			// aapt resource value: 0x7f0d0064
-			public const int design_error = 2131558500;
+			// aapt resource value: 0x7f0d0065
+			public const int design_error = 2131558501;
 			
 			// aapt resource value: 0x7f0d003d
 			public const int design_fab_shadow_end_color = 2131558461;
@@ -3510,8 +3510,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0d0044
 			public const int design_snackbar_background_color = 2131558468;
 			
-			// aapt resource value: 0x7f0d0065
-			public const int design_tint_password_toggle = 2131558501;
+			// aapt resource value: 0x7f0d0066
+			public const int design_tint_password_toggle = 2131558502;
 			
 			// aapt resource value: 0x7f0d0012
 			public const int dim_foreground_disabled_material_dark = 2131558418;
@@ -3542,6 +3542,9 @@ namespace SnackPlanning.Droid
 			
 			// aapt resource value: 0x7f0d001a
 			public const int highlighted_text_material_light = 2131558426;
+			
+			// aapt resource value: 0x7f0d0050
+			public const int icons = 2131558480;
 			
 			// aapt resource value: 0x7f0d004a
 			public const int lightPrimary = 2131558474;
@@ -3651,11 +3654,11 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0d0036
 			public const int switch_thumb_disabled_material_light = 2131558454;
 			
-			// aapt resource value: 0x7f0d0066
-			public const int switch_thumb_material_dark = 2131558502;
-			
 			// aapt resource value: 0x7f0d0067
-			public const int switch_thumb_material_light = 2131558503;
+			public const int switch_thumb_material_dark = 2131558503;
+			
+			// aapt resource value: 0x7f0d0068
+			public const int switch_thumb_material_light = 2131558504;
 			
 			// aapt resource value: 0x7f0d0037
 			public const int switch_thumb_normal_material_dark = 2131558455;
@@ -4418,26 +4421,26 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
-			// aapt resource value: 0x7f02006b
-			public const int avd_hide_password_1 = 2130837611;
-			
 			// aapt resource value: 0x7f02006c
-			public const int avd_hide_password_2 = 2130837612;
+			public const int avd_hide_password_1 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int avd_hide_password_3 = 2130837613;
+			public const int avd_hide_password_2 = 2130837613;
+			
+			// aapt resource value: 0x7f02006e
+			public const int avd_hide_password_3 = 2130837614;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
-			// aapt resource value: 0x7f02006e
-			public const int avd_show_password_1 = 2130837614;
-			
 			// aapt resource value: 0x7f02006f
-			public const int avd_show_password_2 = 2130837615;
+			public const int avd_show_password_1 = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int avd_show_password_3 = 2130837616;
+			public const int avd_show_password_2 = 2130837616;
+			
+			// aapt resource value: 0x7f020071
+			public const int avd_show_password_3 = 2130837617;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -4458,52 +4461,55 @@ namespace SnackPlanning.Droid
 			public const int design_snackbar_background = 2130837594;
 			
 			// aapt resource value: 0x7f02005b
-			public const int navigation_empty_icon = 2130837595;
+			public const int logo = 2130837595;
 			
 			// aapt resource value: 0x7f02005c
-			public const int notification_action_background = 2130837596;
+			public const int navigation_empty_icon = 2130837596;
 			
 			// aapt resource value: 0x7f02005d
-			public const int notification_bg = 2130837597;
+			public const int notification_action_background = 2130837597;
 			
 			// aapt resource value: 0x7f02005e
-			public const int notification_bg_low = 2130837598;
+			public const int notification_bg = 2130837598;
 			
 			// aapt resource value: 0x7f02005f
-			public const int notification_bg_low_normal = 2130837599;
+			public const int notification_bg_low = 2130837599;
 			
 			// aapt resource value: 0x7f020060
-			public const int notification_bg_low_pressed = 2130837600;
+			public const int notification_bg_low_normal = 2130837600;
 			
 			// aapt resource value: 0x7f020061
-			public const int notification_bg_normal = 2130837601;
+			public const int notification_bg_low_pressed = 2130837601;
 			
 			// aapt resource value: 0x7f020062
-			public const int notification_bg_normal_pressed = 2130837602;
+			public const int notification_bg_normal = 2130837602;
 			
 			// aapt resource value: 0x7f020063
-			public const int notification_icon_background = 2130837603;
-			
-			// aapt resource value: 0x7f020069
-			public const int notification_template_icon_bg = 2130837609;
-			
-			// aapt resource value: 0x7f02006a
-			public const int notification_template_icon_low_bg = 2130837610;
+			public const int notification_bg_normal_pressed = 2130837603;
 			
 			// aapt resource value: 0x7f020064
-			public const int notification_tile_bg = 2130837604;
+			public const int notification_icon_background = 2130837604;
+			
+			// aapt resource value: 0x7f02006a
+			public const int notification_template_icon_bg = 2130837610;
+			
+			// aapt resource value: 0x7f02006b
+			public const int notification_template_icon_low_bg = 2130837611;
 			
 			// aapt resource value: 0x7f020065
-			public const int notify_panel_notification_icon_bg = 2130837605;
+			public const int notification_tile_bg = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int splash = 2130837606;
+			public const int notify_panel_notification_icon_bg = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int tooltip_frame_dark = 2130837607;
+			public const int splash = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int tooltip_frame_light = 2130837608;
+			public const int tooltip_frame_dark = 2130837608;
+			
+			// aapt resource value: 0x7f020069
+			public const int tooltip_frame_light = 2130837609;
 			
 			static Drawable()
 			{
@@ -4542,8 +4548,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090039
 			public const int SYM = 2131296313;
 			
-			// aapt resource value: 0x7f0900a1
-			public const int action0 = 2131296417;
+			// aapt resource value: 0x7f09009e
+			public const int action0 = 2131296414;
 			
 			// aapt resource value: 0x7f09007e
 			public const int action_bar = 2131296382;
@@ -4566,17 +4572,17 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f09005c
 			public const int action_bar_title = 2131296348;
 			
-			// aapt resource value: 0x7f09009e
-			public const int action_container = 2131296414;
+			// aapt resource value: 0x7f09009b
+			public const int action_container = 2131296411;
 			
 			// aapt resource value: 0x7f09007f
 			public const int action_context_bar = 2131296383;
 			
-			// aapt resource value: 0x7f0900a5
-			public const int action_divider = 2131296421;
+			// aapt resource value: 0x7f0900a2
+			public const int action_divider = 2131296418;
 			
-			// aapt resource value: 0x7f09009f
-			public const int action_image = 2131296415;
+			// aapt resource value: 0x7f09009c
+			public const int action_image = 2131296412;
 			
 			// aapt resource value: 0x7f090003
 			public const int action_menu_divider = 2131296259;
@@ -4593,11 +4599,11 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f09005e
 			public const int action_mode_close_button = 2131296350;
 			
-			// aapt resource value: 0x7f0900a0
-			public const int action_text = 2131296416;
+			// aapt resource value: 0x7f09009d
+			public const int action_text = 2131296413;
 			
-			// aapt resource value: 0x7f0900ae
-			public const int actions = 2131296430;
+			// aapt resource value: 0x7f0900ab
+			public const int actions = 2131296427;
 			
 			// aapt resource value: 0x7f09005f
 			public const int activity_chooser_view_content = 2131296351;
@@ -4632,8 +4638,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090065
 			public const int buttonPanel = 2131296357;
 			
-			// aapt resource value: 0x7f0900a2
-			public const int cancel_action = 2131296418;
+			// aapt resource value: 0x7f09009f
+			public const int cancel_action = 2131296415;
 			
 			// aapt resource value: 0x7f090047
 			public const int center = 2131296327;
@@ -4647,8 +4653,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090075
 			public const int checkbox = 2131296373;
 			
-			// aapt resource value: 0x7f0900aa
-			public const int chronometer = 2131296426;
+			// aapt resource value: 0x7f0900a7
+			public const int chronometer = 2131296423;
 			
 			// aapt resource value: 0x7f090050
 			public const int clip_horizontal = 2131296336;
@@ -4664,9 +4670,6 @@ namespace SnackPlanning.Droid
 			
 			// aapt resource value: 0x7f090068
 			public const int contentPanel = 2131296360;
-			
-			// aapt resource value: 0x7f09009d
-			public const int content_frame = 2131296413;
 			
 			// aapt resource value: 0x7f090090
 			public const int coordinator = 2131296400;
@@ -4707,8 +4710,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090032
 			public const int end = 2131296306;
 			
-			// aapt resource value: 0x7f0900b0
-			public const int end_padder = 2131296432;
+			// aapt resource value: 0x7f0900ad
+			public const int end_padder = 2131296429;
 			
 			// aapt resource value: 0x7f090041
 			public const int enterAlways = 2131296321;
@@ -4752,8 +4755,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090064
 			public const int icon = 2131296356;
 			
-			// aapt resource value: 0x7f0900af
-			public const int icon_group = 2131296431;
+			// aapt resource value: 0x7f0900ac
+			public const int icon_group = 2131296428;
 			
 			// aapt resource value: 0x7f09003c
 			public const int ifRoom = 2131296316;
@@ -4761,8 +4764,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090061
 			public const int image = 2131296353;
 			
-			// aapt resource value: 0x7f0900ab
-			public const int info = 2131296427;
+			// aapt resource value: 0x7f0900a8
+			public const int info = 2131296424;
 			
 			// aapt resource value: 0x7f09005b
 			public const int italic = 2131296347;
@@ -4788,14 +4791,14 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090063
 			public const int list_item = 2131296355;
 			
-			// aapt resource value: 0x7f0900b3
-			public const int masked = 2131296435;
-			
-			// aapt resource value: 0x7f0900a4
-			public const int media_actions = 2131296420;
-			
 			// aapt resource value: 0x7f0900b1
-			public const int message = 2131296433;
+			public const int masked = 2131296433;
+			
+			// aapt resource value: 0x7f0900a1
+			public const int media_actions = 2131296417;
+			
+			// aapt resource value: 0x7f0900af
+			public const int message = 2131296431;
 			
 			// aapt resource value: 0x7f090033
 			public const int middle = 2131296307;
@@ -4818,14 +4821,14 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090020
 			public const int normal = 2131296288;
 			
-			// aapt resource value: 0x7f0900ad
-			public const int notification_background = 2131296429;
+			// aapt resource value: 0x7f0900aa
+			public const int notification_background = 2131296426;
 			
-			// aapt resource value: 0x7f0900a7
-			public const int notification_main_column = 2131296423;
+			// aapt resource value: 0x7f0900a4
+			public const int notification_main_column = 2131296420;
 			
-			// aapt resource value: 0x7f0900a6
-			public const int notification_main_column_container = 2131296422;
+			// aapt resource value: 0x7f0900a3
+			public const int notification_main_column_container = 2131296419;
 			
 			// aapt resource value: 0x7f09004e
 			public const int parallax = 2131296334;
@@ -4851,11 +4854,11 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f09004c
 			public const int right = 2131296332;
 			
-			// aapt resource value: 0x7f0900ac
-			public const int right_icon = 2131296428;
+			// aapt resource value: 0x7f0900a9
+			public const int right_icon = 2131296425;
 			
-			// aapt resource value: 0x7f0900a8
-			public const int right_side = 2131296424;
+			// aapt resource value: 0x7f0900a5
+			public const int right_side = 2131296421;
 			
 			// aapt resource value: 0x7f09000c
 			public const int save_image_matrix = 2131296268;
@@ -4959,8 +4962,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f09004d
 			public const int start = 2131296333;
 			
-			// aapt resource value: 0x7f0900a3
-			public const int status_bar_latest_event_content = 2131296419;
+			// aapt resource value: 0x7f0900a0
+			public const int status_bar_latest_event_content = 2131296416;
 			
 			// aapt resource value: 0x7f090078
 			public const int submenuarrow = 2131296376;
@@ -4995,8 +4998,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090015
 			public const int textinput_error = 2131296277;
 			
-			// aapt resource value: 0x7f0900a9
-			public const int time = 2131296425;
+			// aapt resource value: 0x7f0900a6
+			public const int time = 2131296422;
 			
 			// aapt resource value: 0x7f09001c
 			public const int title = 2131296284;
@@ -5007,11 +5010,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090071
 			public const int title_template = 2131296369;
 			
-			// aapt resource value: 0x7f09009c
-			public const int toolbar = 2131296412;
-			
-			// aapt resource value: 0x7f09009b
-			public const int toolbar_layout = 2131296411;
+			// aapt resource value: 0x7f0900ae
+			public const int toolbar = 2131296430;
 			
 			// aapt resource value: 0x7f090040
 			public const int top = 2131296320;
@@ -5049,8 +5049,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900b2
-			public const int visible = 2131296434;
+			// aapt resource value: 0x7f0900b0
+			public const int visible = 2131296432;
 			
 			// aapt resource value: 0x7f09003e
 			public const int withText = 2131296318;
@@ -5238,73 +5238,70 @@ namespace SnackPlanning.Droid
 			public const int design_text_input_password_icon = 2130968615;
 			
 			// aapt resource value: 0x7f040028
-			public const int FirstView = 2130968616;
+			public const int notification_action = 2130968616;
 			
 			// aapt resource value: 0x7f040029
-			public const int notification_action = 2130968617;
+			public const int notification_action_tombstone = 2130968617;
 			
 			// aapt resource value: 0x7f04002a
-			public const int notification_action_tombstone = 2130968618;
+			public const int notification_media_action = 2130968618;
 			
 			// aapt resource value: 0x7f04002b
-			public const int notification_media_action = 2130968619;
+			public const int notification_media_cancel_action = 2130968619;
 			
 			// aapt resource value: 0x7f04002c
-			public const int notification_media_cancel_action = 2130968620;
+			public const int notification_template_big_media = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int notification_template_big_media = 2130968621;
+			public const int notification_template_big_media_custom = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int notification_template_big_media_custom = 2130968622;
+			public const int notification_template_big_media_narrow = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int notification_template_big_media_narrow = 2130968623;
+			public const int notification_template_big_media_narrow_custom = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_template_big_media_narrow_custom = 2130968624;
+			public const int notification_template_custom_big = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_template_custom_big = 2130968625;
+			public const int notification_template_icon_group = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_template_icon_group = 2130968626;
+			public const int notification_template_lines_media = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_lines_media = 2130968627;
+			public const int notification_template_media = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_media = 2130968628;
+			public const int notification_template_media_custom = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_media_custom = 2130968629;
+			public const int notification_template_part_chronometer = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_part_chronometer = 2130968630;
+			public const int notification_template_part_time = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_part_time = 2130968631;
+			public const int select_dialog_item_material = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int select_dialog_item_material = 2130968632;
+			public const int select_dialog_multichoice_material = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int select_dialog_multichoice_material = 2130968633;
+			public const int select_dialog_singlechoice_material = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int select_dialog_singlechoice_material = 2130968634;
+			public const int SplashScreen = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int SplashScreen = 2130968635;
+			public const int support_simple_spinner_dropdown_item = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int support_simple_spinner_dropdown_item = 2130968636;
+			public const int toolbar = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int toolbar = 2130968637;
-			
-			// aapt resource value: 0x7f04003e
-			public const int tooltip = 2130968638;
+			public const int tooltip = 2130968637;
 			
 			static Layout()
 			{

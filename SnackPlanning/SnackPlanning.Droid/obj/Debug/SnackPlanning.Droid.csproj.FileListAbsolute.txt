@@ -9,7 +9,6 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/bin/com.companyname.SnackPlanning.apk
-/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/drawable/splash.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/mipmap-hdpi/ic_launcher.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/mipmap-mdpi/ic_launcher.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/mipmap-xhdpi/ic_launcher.png
@@ -28,6 +27,7 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/values-v21/styles.xml
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/R.cs.flag
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/uploadflags.txt
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/drawable/splash.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Mono.Android.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Mono.Android.Export.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/SnackPlanning.Droid.pdb
