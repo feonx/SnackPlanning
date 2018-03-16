@@ -1,47 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:local="http://schemas.android.com/apk/res-auto"
-    android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:gravity="center">
-    <ImageView
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/content_frame"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:layout_marginBottom="80dp"
-        android:src="@drawable/logo" />
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-        <android.support.design.widget.TextInputEditText
-            android:id="@+id/usernameField"
-            android:layout_width="350dp"
-            android:layout_height="wrap_content"
-            android:hint="@string/usernameLabel"
-            local:MvxBind="Text Username" />
-    </android.support.design.widget.TextInputLayout>
-    <android.support.design.widget.TextInputLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content">
-        <android.support.design.widget.TextInputEditText
-            android:id="@+id/passwordField"
-            android:layout_width="350dp"
-            android:layout_height="wrap_content"
-            android:hint="@string/passwordLabel"
-            local:MvxBind="Text Password" />
-    </android.support.design.widget.TextInputLayout>
-    <android.support.v7.widget.AppCompatButton
-        android:id="@+id/loginButton"
-        android:layout_width="300dp"
-        android:layout_height="48dp"
-        android:text="Inloggen"
-        android:layout_marginTop="15dp"
-        local:MvxBind="Click LoginCommand" />
-    <android.support.v7.widget.AppCompatButton
-        android:id="@+id/registerButton"
-        android:layout_width="300dp"
-        android:layout_height="48dp"
-        android:text="Registeren"
-        android:layout_marginTop="5dp"
-        local:MvxBind="Click Register" />
-</LinearLayout>
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/primaryDark">
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="200dp"
+                android:layout_height="320dp"
+                android:src="@drawable/splash"
+                android:layout_gravity="center" />
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_username"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+                <EditText
+                    android:id="@+id/input_username"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/usernameLabel" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_password"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+                <EditText
+                    android:id="@+id/input_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/passwordLabel" />
+            </android.support.design.widget.TextInputLayout>
+            <Button
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="@string/loginButtonLabel"
+                android:theme="@style/Widget.AppCompat.Button"
+                android:layout_gravity="center" />
+            <Button
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:text="@string/registerButtonLabel"
+                android:theme="@style/Widget.AppCompat.Button"
+                android:layout_gravity="center" />
+        </LinearLayout>
+    </FrameLayout>
+</RelativeLayout>

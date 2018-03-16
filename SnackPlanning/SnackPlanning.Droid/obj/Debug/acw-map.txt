@@ -2,10 +2,10 @@ SnackPlanning.Droid.SplashScreen, SnackPlanning.Droid;md52f336b0f220d4434b3bc5a9
 SnackPlanning.Droid.SplashScreen, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
 SnackPlanning.Droid.SplashScreen;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
 snackplanning.droid.SplashScreen;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
-SnackPlanning.Droid.Views.FirstView, SnackPlanning.Droid;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
-SnackPlanning.Droid.Views.FirstView, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
-SnackPlanning.Droid.Views.FirstView;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
-snackplanning.droid.views.FirstView;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
+SnackPlanning.Droid.Views.LoginView, SnackPlanning.Droid;md5e2521e171aa2c9585864f98d4e4ed3b5.LoginView
+SnackPlanning.Droid.Views.LoginView, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e2521e171aa2c9585864f98d4e4ed3b5.LoginView
+SnackPlanning.Droid.Views.LoginView;md5e2521e171aa2c9585864f98d4e4ed3b5.LoginView
+snackplanning.droid.views.LoginView;md5e2521e171aa2c9585864f98d4e4ed3b5.LoginView
 SnackPlanning.Droid.Views.BaseView, SnackPlanning.Droid;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView
 SnackPlanning.Droid.Views.BaseView, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView
 SnackPlanning.Droid.Views.BaseView;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView

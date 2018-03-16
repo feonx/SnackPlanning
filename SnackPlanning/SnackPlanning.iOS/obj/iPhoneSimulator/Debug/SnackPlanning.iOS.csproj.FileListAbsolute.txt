@@ -1,3 +1,4 @@
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.exe.config
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.exe
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.dll
@@ -24,8 +25,7 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/optimized/Entitlements.plist
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/optimized/
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.csprojResolveAssemblyReference.cache
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.exe.config
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.csproj.CoreCompileInputs.cache
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.exe
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.pdb
-/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.exe.config
-/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.exe.config

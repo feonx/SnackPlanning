@@ -4,4 +4,6 @@
     <string name="ApplicationName">SnackPlanning</string>
     <string name="usernameLabel">Gebruikersnaam:</string>
     <string name="passwordLabel">Wachtwoord:</string>
+    <string name="loginButtonLabel">Inloggen</string>
+    <string name="registerButtonLabel">Registreren</string>
 </resources>

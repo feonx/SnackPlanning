@@ -832,94 +832,95 @@
         }
       }
     },
-    "dependencies": {
-      "MvvmCross": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Binding": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Core": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Platform": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Droid.Support.Core.UI": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Droid.Support.Fragment": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Droid.Support.V7.AppCompat": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Droid.Support.V7.RecyclerView": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "Xamarin.Android.Support.Animated.Vector.Drawable": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Annotations": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Compat": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Core.UI": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Core.Utils": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Design": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Fragment": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Media.Compat": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Transition": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.v7.AppCompat": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.v7.RecyclerView": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Android.Support.Vector.Drawable": {
-        "target": "Package",
-        "version": "[27.0.2, )"
-      },
-      "Xamarin.Build.Download": {
-        "target": "Package",
-        "version": "[0.4.9, )"
-      }
-    },
     "frameworks": {
-      "monoandroid81": {}
+      "monoandroid81": {
+        "dependencies": {
+          "MvvmCross": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Binding": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Core": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Platform": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Droid.Support.Core.UI": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Droid.Support.Fragment": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Droid.Support.V7.AppCompat": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Droid.Support.V7.RecyclerView": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "Xamarin.Android.Support.Animated.Vector.Drawable": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Annotations": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Compat": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Core.UI": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Core.Utils": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Design": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Fragment": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Media.Compat": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Transition": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v7.AppCompat": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.v7.RecyclerView": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Android.Support.Vector.Drawable": {
+            "target": "Package",
+            "version": "27.0.2"
+          },
+          "Xamarin.Build.Download": {
+            "target": "Package",
+            "version": "0.4.9"
+          }
+        }
+      }
     }
   }
 }

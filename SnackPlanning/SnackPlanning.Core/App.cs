@@ -11,7 +11,7 @@ namespace SnackPlanning.Core
                 .AsInterfaces()
                 .RegisterAsLazySingleton();
 
-            RegisterNavigationServiceAppStart<ViewModels.FirstViewModel>();
+            RegisterNavigationServiceAppStart<ViewModels.LoginViewModel>();
         }
     }
 }

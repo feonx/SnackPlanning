@@ -449,26 +449,27 @@
         }
       }
     },
-    "dependencies": {
-      "MvvmCross": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Binding": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Core": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      },
-      "MvvmCross.Platform": {
-        "target": "Package",
-        "version": "[5.7.0, )"
-      }
-    },
     "frameworks": {
-      "xamarinios10": {}
+      "xamarinios10": {
+        "dependencies": {
+          "MvvmCross": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Binding": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Core": {
+            "target": "Package",
+            "version": "5.7.0"
+          },
+          "MvvmCross.Platform": {
+            "target": "Package",
+            "version": "5.7.0"
+          }
+        }
+      }
     },
     "runtimes": {
       "win": {
