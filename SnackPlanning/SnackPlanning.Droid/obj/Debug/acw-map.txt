@@ -1,0 +1,560 @@
+SnackPlanning.Droid.SplashScreen, SnackPlanning.Droid;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
+SnackPlanning.Droid.SplashScreen, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
+SnackPlanning.Droid.SplashScreen;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
+snackplanning.droid.SplashScreen;md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen
+SnackPlanning.Droid.Views.FirstView, SnackPlanning.Droid;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
+SnackPlanning.Droid.Views.FirstView, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
+SnackPlanning.Droid.Views.FirstView;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
+snackplanning.droid.views.FirstView;md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView
+SnackPlanning.Droid.Views.BaseView, SnackPlanning.Droid;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView
+SnackPlanning.Droid.Views.BaseView, SnackPlanning.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView
+SnackPlanning.Droid.Views.BaseView;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView
+snackplanning.droid.views.BaseView;md5e2521e171aa2c9585864f98d4e4ed3b5.BaseView
+MvvmCross.Binding.Droid.Views.MvxContextWrapper, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxContextWrapper
+MvvmCross.Binding.Droid.Views.MvxContextWrapper, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxContextWrapper
+MvvmCross.Binding.Droid.Views.MvxContextWrapper;md542f353d1b1081f7745f0b06ca2e9e57a.MvxContextWrapper
+mvvmcross.binding.droid.views.MvxContextWrapper;md542f353d1b1081f7745f0b06ca2e9e57a.MvxContextWrapper
+MvvmCross.Binding.Droid.Views.MvxExpandableListAdapter, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxExpandableListAdapter
+MvvmCross.Binding.Droid.Views.MvxExpandableListAdapter, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxExpandableListAdapter
+MvvmCross.Binding.Droid.Views.MvxExpandableListAdapter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxExpandableListAdapter
+mvvmcross.binding.droid.views.MvxExpandableListAdapter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxExpandableListAdapter
+MvvmCross.Binding.Droid.Views.MvxExpandableListView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxExpandableListView
+MvvmCross.Binding.Droid.Views.MvxExpandableListView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxExpandableListView
+MvvmCross.Binding.Droid.Views.MvxExpandableListView;mvvmcross.binding.droid.views.MvxExpandableListView
+mvvmcross.binding.droid.views.MvxExpandableListView;mvvmcross.binding.droid.views.MvxExpandableListView
+MvvmCross.Binding.Droid.Views.MvxFrameControl, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxFrameControl
+MvvmCross.Binding.Droid.Views.MvxFrameControl, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxFrameControl
+MvvmCross.Binding.Droid.Views.MvxFrameControl;mvvmcross.binding.droid.views.MvxFrameControl
+mvvmcross.binding.droid.views.MvxFrameControl;mvvmcross.binding.droid.views.MvxFrameControl
+MvvmCross.Binding.Droid.Views.MvxDatePicker, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxDatePicker
+MvvmCross.Binding.Droid.Views.MvxDatePicker, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxDatePicker
+MvvmCross.Binding.Droid.Views.MvxDatePicker;mvvmcross.binding.droid.views.MvxDatePicker
+mvvmcross.binding.droid.views.MvxDatePicker;mvvmcross.binding.droid.views.MvxDatePicker
+MvvmCross.Binding.Droid.Views.MvxGridView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxGridView
+MvvmCross.Binding.Droid.Views.MvxGridView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxGridView
+MvvmCross.Binding.Droid.Views.MvxGridView;mvvmcross.binding.droid.views.MvxGridView
+mvvmcross.binding.droid.views.MvxGridView;mvvmcross.binding.droid.views.MvxGridView
+MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxAutoCompleteTextView
+MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxAutoCompleteTextView
+MvvmCross.Binding.Droid.Views.MvxAutoCompleteTextView;mvvmcross.binding.droid.views.MvxAutoCompleteTextView
+mvvmcross.binding.droid.views.MvxAutoCompleteTextView;mvvmcross.binding.droid.views.MvxAutoCompleteTextView
+MvvmCross.Binding.Droid.Views.MvxLayoutInflater, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxLayoutInflater
+MvvmCross.Binding.Droid.Views.MvxLayoutInflater, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxLayoutInflater
+MvvmCross.Binding.Droid.Views.MvxLayoutInflater;mvvmcross.binding.droid.views.MvxLayoutInflater
+mvvmcross.binding.droid.views.MvxLayoutInflater;mvvmcross.binding.droid.views.MvxLayoutInflater
+MvvmCross.Binding.Droid.Views.MvxLayoutInflater/PrivateFactoryWrapper2, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxLayoutInflater_PrivateFactoryWrapper2
+MvvmCross.Binding.Droid.Views.MvxLayoutInflater+PrivateFactoryWrapper2, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxLayoutInflater_PrivateFactoryWrapper2
+MvvmCross.Binding.Droid.Views.MvxLayoutInflater.PrivateFactoryWrapper2;mvvmcross.binding.droid.views.MvxLayoutInflater_PrivateFactoryWrapper2
+mvvmcross.binding.droid.views.MvxLayoutInflater_PrivateFactoryWrapper2;mvvmcross.binding.droid.views.MvxLayoutInflater_PrivateFactoryWrapper2
+MvvmCross.Binding.Droid.Views.MvxRadioGroup, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxRadioGroup
+MvvmCross.Binding.Droid.Views.MvxRadioGroup, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxRadioGroup
+MvvmCross.Binding.Droid.Views.MvxRadioGroup;mvvmcross.binding.droid.views.MvxRadioGroup
+mvvmcross.binding.droid.views.MvxRadioGroup;mvvmcross.binding.droid.views.MvxRadioGroup
+MvvmCross.Binding.Droid.Views.MvxSimpleListItemView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxSimpleListItemView
+MvvmCross.Binding.Droid.Views.MvxSimpleListItemView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxSimpleListItemView
+MvvmCross.Binding.Droid.Views.MvxSimpleListItemView;mvvmcross.binding.droid.views.MvxSimpleListItemView
+mvvmcross.binding.droid.views.MvxSimpleListItemView;mvvmcross.binding.droid.views.MvxSimpleListItemView
+MvvmCross.Binding.Droid.Views.MvxSpinner, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxSpinner
+MvvmCross.Binding.Droid.Views.MvxSpinner, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxSpinner
+MvvmCross.Binding.Droid.Views.MvxSpinner;mvvmcross.binding.droid.views.MvxSpinner
+mvvmcross.binding.droid.views.MvxSpinner;mvvmcross.binding.droid.views.MvxSpinner
+MvvmCross.Binding.Droid.Views.MvxFilteringAdapter, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter
+MvvmCross.Binding.Droid.Views.MvxFilteringAdapter, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter
+MvvmCross.Binding.Droid.Views.MvxFilteringAdapter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter
+mvvmcross.binding.droid.views.MvxFilteringAdapter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter
+MvvmCross.Binding.Droid.Views.MvxFilteringAdapter/MyFilter, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter_MyFilter
+MvvmCross.Binding.Droid.Views.MvxFilteringAdapter+MyFilter, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter_MyFilter
+MvvmCross.Binding.Droid.Views.MvxFilteringAdapter.MyFilter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter_MyFilter
+mvvmcross.binding.droid.views.MvxFilteringAdapter_MyFilter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxFilteringAdapter_MyFilter
+MvvmCross.Binding.Droid.Views.MvxLinearLayout, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxLinearLayout
+MvvmCross.Binding.Droid.Views.MvxLinearLayout, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxLinearLayout
+MvvmCross.Binding.Droid.Views.MvxLinearLayout;mvvmcross.binding.droid.views.MvxLinearLayout
+mvvmcross.binding.droid.views.MvxLinearLayout;mvvmcross.binding.droid.views.MvxLinearLayout
+MvvmCross.Binding.Droid.Views.MvxListItemView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxListItemView
+MvvmCross.Binding.Droid.Views.MvxListItemView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxListItemView
+MvvmCross.Binding.Droid.Views.MvxListItemView;mvvmcross.binding.droid.views.MvxListItemView
+mvvmcross.binding.droid.views.MvxListItemView;mvvmcross.binding.droid.views.MvxListItemView
+MvvmCross.Binding.Droid.Views.MvxListView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxListView
+MvvmCross.Binding.Droid.Views.MvxListView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxListView
+MvvmCross.Binding.Droid.Views.MvxListView;mvvmcross.binding.droid.views.MvxListView
+mvvmcross.binding.droid.views.MvxListView;mvvmcross.binding.droid.views.MvxListView
+MvvmCross.Binding.Droid.Views.MvxAdapter, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter
+MvvmCross.Binding.Droid.Views.MvxAdapter, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter
+MvvmCross.Binding.Droid.Views.MvxAdapter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter
+mvvmcross.binding.droid.views.MvxAdapter;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter
+MvvmCross.Binding.Droid.Views.MvxAdapter`1, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter_1
+MvvmCross.Binding.Droid.Views.MvxAdapter`1, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter_1
+MvvmCross.Binding.Droid.Views.MvxAdapter`1;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter_1
+mvvmcross.binding.droid.views.MvxAdapter_1;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapter_1
+MvvmCross.Binding.Droid.Views.MvxAdapterWithChangedEvent, MvvmCross.Binding.Droid;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapterWithChangedEvent
+MvvmCross.Binding.Droid.Views.MvxAdapterWithChangedEvent, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapterWithChangedEvent
+MvvmCross.Binding.Droid.Views.MvxAdapterWithChangedEvent;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapterWithChangedEvent
+mvvmcross.binding.droid.views.MvxAdapterWithChangedEvent;md542f353d1b1081f7745f0b06ca2e9e57a.MvxAdapterWithChangedEvent
+MvvmCross.Binding.Droid.Views.MvxImageView, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxImageView
+MvvmCross.Binding.Droid.Views.MvxImageView, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxImageView
+MvvmCross.Binding.Droid.Views.MvxImageView;mvvmcross.binding.droid.views.MvxImageView
+mvvmcross.binding.droid.views.MvxImageView;mvvmcross.binding.droid.views.MvxImageView
+MvvmCross.Binding.Droid.Views.MvxTimePicker, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxTimePicker
+MvvmCross.Binding.Droid.Views.MvxTimePicker, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxTimePicker
+MvvmCross.Binding.Droid.Views.MvxTimePicker;mvvmcross.binding.droid.views.MvxTimePicker
+mvvmcross.binding.droid.views.MvxTimePicker;mvvmcross.binding.droid.views.MvxTimePicker
+MvvmCross.Binding.Droid.Views.MvxRelativeLayout, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxRelativeLayout
+MvvmCross.Binding.Droid.Views.MvxRelativeLayout, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxRelativeLayout
+MvvmCross.Binding.Droid.Views.MvxRelativeLayout;mvvmcross.binding.droid.views.MvxRelativeLayout
+mvvmcross.binding.droid.views.MvxRelativeLayout;mvvmcross.binding.droid.views.MvxRelativeLayout
+MvvmCross.Binding.Droid.Views.MvxFrameLayout, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxFrameLayout
+MvvmCross.Binding.Droid.Views.MvxFrameLayout, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxFrameLayout
+MvvmCross.Binding.Droid.Views.MvxFrameLayout;mvvmcross.binding.droid.views.MvxFrameLayout
+mvvmcross.binding.droid.views.MvxFrameLayout;mvvmcross.binding.droid.views.MvxFrameLayout
+MvvmCross.Binding.Droid.Views.MvxTableLayout, MvvmCross.Binding.Droid;mvvmcross.binding.droid.views.MvxTableLayout
+MvvmCross.Binding.Droid.Views.MvxTableLayout, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.binding.droid.views.MvxTableLayout
+MvvmCross.Binding.Droid.Views.MvxTableLayout;mvvmcross.binding.droid.views.MvxTableLayout
+mvvmcross.binding.droid.views.MvxTableLayout;mvvmcross.binding.droid.views.MvxTableLayout
+MvvmCross.Binding.Droid.Binders.MvxLayoutInflaterCompat/FactoryWrapper, MvvmCross.Binding.Droid;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper
+MvvmCross.Binding.Droid.Binders.MvxLayoutInflaterCompat+FactoryWrapper, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper
+MvvmCross.Binding.Droid.Binders.MvxLayoutInflaterCompat.FactoryWrapper;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper
+mvvmcross.binding.droid.binders.MvxLayoutInflaterCompat_FactoryWrapper;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper
+MvvmCross.Binding.Droid.Binders.MvxLayoutInflaterCompat/FactoryWrapper2, MvvmCross.Binding.Droid;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper2
+MvvmCross.Binding.Droid.Binders.MvxLayoutInflaterCompat+FactoryWrapper2, MvvmCross.Binding.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper2
+MvvmCross.Binding.Droid.Binders.MvxLayoutInflaterCompat.FactoryWrapper2;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper2
+mvvmcross.binding.droid.binders.MvxLayoutInflaterCompat_FactoryWrapper2;md5ec989ae2d58d91f132932a49f907eb59.MvxLayoutInflaterCompat_FactoryWrapper2
+MvvmCross.Droid.Views.MvxSplashScreenActivity, MvvmCross.Droid;mvvmcross.droid.views.MvxSplashScreenActivity
+MvvmCross.Droid.Views.MvxSplashScreenActivity, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.views.MvxSplashScreenActivity
+MvvmCross.Droid.Views.MvxSplashScreenActivity;mvvmcross.droid.views.MvxSplashScreenActivity
+mvvmcross.droid.views.MvxSplashScreenActivity;mvvmcross.droid.views.MvxSplashScreenActivity
+MvvmCross.Droid.Views.MvxTabActivity, MvvmCross.Droid;mvvmcross.droid.views.MvxTabActivity
+MvvmCross.Droid.Views.MvxTabActivity, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.views.MvxTabActivity
+MvvmCross.Droid.Views.MvxTabActivity;mvvmcross.droid.views.MvxTabActivity
+mvvmcross.droid.views.MvxTabActivity;mvvmcross.droid.views.MvxTabActivity
+MvvmCross.Droid.Views.MvxTabActivity`1, MvvmCross.Droid;md52af954b89e412540bc9b68f2eb771b47.MvxTabActivity_1
+MvvmCross.Droid.Views.MvxTabActivity`1, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md52af954b89e412540bc9b68f2eb771b47.MvxTabActivity_1
+MvvmCross.Droid.Views.MvxTabActivity`1;md52af954b89e412540bc9b68f2eb771b47.MvxTabActivity_1
+mvvmcross.droid.views.MvxTabActivity_1;md52af954b89e412540bc9b68f2eb771b47.MvxTabActivity_1
+MvvmCross.Droid.Views.MvxActivity, MvvmCross.Droid;mvvmcross.droid.views.MvxActivity
+MvvmCross.Droid.Views.MvxActivity, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.views.MvxActivity
+MvvmCross.Droid.Views.MvxActivity;mvvmcross.droid.views.MvxActivity
+mvvmcross.droid.views.MvxActivity;mvvmcross.droid.views.MvxActivity
+MvvmCross.Droid.Views.MvxActivity`1, MvvmCross.Droid;md52af954b89e412540bc9b68f2eb771b47.MvxActivity_1
+MvvmCross.Droid.Views.MvxActivity`1, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md52af954b89e412540bc9b68f2eb771b47.MvxActivity_1
+MvvmCross.Droid.Views.MvxActivity`1;md52af954b89e412540bc9b68f2eb771b47.MvxActivity_1
+mvvmcross.droid.views.MvxActivity_1;md52af954b89e412540bc9b68f2eb771b47.MvxActivity_1
+MvvmCross.Droid.Views.MvxAndroidApplication, MvvmCross.Droid;md52af954b89e412540bc9b68f2eb771b47.MvxAndroidApplication
+MvvmCross.Droid.Views.MvxAndroidApplication, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md52af954b89e412540bc9b68f2eb771b47.MvxAndroidApplication
+MvvmCross.Droid.Views.MvxAndroidApplication;md52af954b89e412540bc9b68f2eb771b47.MvxAndroidApplication
+mvvmcross.droid.views.MvxAndroidApplication;md52af954b89e412540bc9b68f2eb771b47.MvxAndroidApplication
+MvvmCross.Droid.Views.MvxTabsFragmentActivity, MvvmCross.Droid;mvvmcross.droid.views.MvxTabsFragmentActivity
+MvvmCross.Droid.Views.MvxTabsFragmentActivity, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.views.MvxTabsFragmentActivity
+MvvmCross.Droid.Views.MvxTabsFragmentActivity;mvvmcross.droid.views.MvxTabsFragmentActivity
+mvvmcross.droid.views.MvxTabsFragmentActivity;mvvmcross.droid.views.MvxTabsFragmentActivity
+MvvmCross.Droid.Views.MvxTabsFragmentActivity/TabFactory, MvvmCross.Droid;mvvmcross.droid.views.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.Views.MvxTabsFragmentActivity+TabFactory, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.views.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.Views.MvxTabsFragmentActivity.TabFactory;mvvmcross.droid.views.MvxTabsFragmentActivity_TabFactory
+mvvmcross.droid.views.MvxTabsFragmentActivity_TabFactory;mvvmcross.droid.views.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.Views.Fragments.MvxDialogFragment, MvvmCross.Droid;mvvmcross.droid.fragments.MvxDialogFragment
+MvvmCross.Droid.Views.Fragments.MvxDialogFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.MvxDialogFragment
+MvvmCross.Droid.Views.Fragments.MvxDialogFragment;mvvmcross.droid.fragments.MvxDialogFragment
+mvvmcross.droid.fragments.MvxDialogFragment;mvvmcross.droid.fragments.MvxDialogFragment
+MvvmCross.Droid.Views.Fragments.MvxDialogFragment`1, MvvmCross.Droid;md5c2b735b9737ff809652dbd0e4ddc249a.MvxDialogFragment_1
+MvvmCross.Droid.Views.Fragments.MvxDialogFragment`1, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5c2b735b9737ff809652dbd0e4ddc249a.MvxDialogFragment_1
+MvvmCross.Droid.Views.Fragments.MvxDialogFragment`1;md5c2b735b9737ff809652dbd0e4ddc249a.MvxDialogFragment_1
+mvvmcross.droid.views.fragments.MvxDialogFragment_1;md5c2b735b9737ff809652dbd0e4ddc249a.MvxDialogFragment_1
+MvvmCross.Droid.Views.Fragments.MvxFragment, MvvmCross.Droid;mvvmcross.droid.fragments.MvxFragment
+MvvmCross.Droid.Views.Fragments.MvxFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.MvxFragment
+MvvmCross.Droid.Views.Fragments.MvxFragment;mvvmcross.droid.fragments.MvxFragment
+mvvmcross.droid.fragments.MvxFragment;mvvmcross.droid.fragments.MvxFragment
+MvvmCross.Droid.Views.Fragments.MvxFragment`1, MvvmCross.Droid;md5c2b735b9737ff809652dbd0e4ddc249a.MvxFragment_1
+MvvmCross.Droid.Views.Fragments.MvxFragment`1, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5c2b735b9737ff809652dbd0e4ddc249a.MvxFragment_1
+MvvmCross.Droid.Views.Fragments.MvxFragment`1;md5c2b735b9737ff809652dbd0e4ddc249a.MvxFragment_1
+mvvmcross.droid.views.fragments.MvxFragment_1;md5c2b735b9737ff809652dbd0e4ddc249a.MvxFragment_1
+MvvmCross.Droid.Views.Fragments.MvxPreferenceFragment, MvvmCross.Droid;mvvmcross.droid.fragments.MvxPreferenceFragment
+MvvmCross.Droid.Views.Fragments.MvxPreferenceFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.MvxPreferenceFragment
+MvvmCross.Droid.Views.Fragments.MvxPreferenceFragment;mvvmcross.droid.fragments.MvxPreferenceFragment
+mvvmcross.droid.fragments.MvxPreferenceFragment;mvvmcross.droid.fragments.MvxPreferenceFragment
+MvvmCross.Droid.Views.Fragments.MvxPreferenceFragment`1, MvvmCross.Droid;md5c2b735b9737ff809652dbd0e4ddc249a.MvxPreferenceFragment_1
+MvvmCross.Droid.Views.Fragments.MvxPreferenceFragment`1, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5c2b735b9737ff809652dbd0e4ddc249a.MvxPreferenceFragment_1
+MvvmCross.Droid.Views.Fragments.MvxPreferenceFragment`1;md5c2b735b9737ff809652dbd0e4ddc249a.MvxPreferenceFragment_1
+mvvmcross.droid.views.fragments.MvxPreferenceFragment_1;md5c2b735b9737ff809652dbd0e4ddc249a.MvxPreferenceFragment_1
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceDialogFragment, MvvmCross.Droid;mvvmcross.droid.fragments.eventsource.MvxEventSourceDialogFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceDialogFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.eventsource.MvxEventSourceDialogFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceDialogFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourceDialogFragment
+mvvmcross.droid.fragments.eventsource.MvxEventSourceDialogFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourceDialogFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceFragment, MvvmCross.Droid;mvvmcross.droid.fragments.eventsource.MvxEventSourceFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.eventsource.MvxEventSourceFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourceFragment
+mvvmcross.droid.fragments.eventsource.MvxEventSourceFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourceFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceListFragment, MvvmCross.Droid;mvvmcross.droid.fragments.eventsource.MvxEventSourceListFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceListFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.eventsource.MvxEventSourceListFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourceListFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourceListFragment
+mvvmcross.droid.fragments.eventsource.MvxEventSourceListFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourceListFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourcePreferenceFragment, MvvmCross.Droid;mvvmcross.droid.fragments.eventsource.MvxEventSourcePreferenceFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourcePreferenceFragment, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.fragments.eventsource.MvxEventSourcePreferenceFragment
+MvvmCross.Droid.Views.Fragments.EventSource.MvxEventSourcePreferenceFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourcePreferenceFragment
+mvvmcross.droid.fragments.eventsource.MvxEventSourcePreferenceFragment;mvvmcross.droid.fragments.eventsource.MvxEventSourcePreferenceFragment
+MvvmCross.Droid.Services.MvxBroadcastReceiver, MvvmCross.Droid;mvvmcross.droid.services.MvxBroadcastReceiver
+MvvmCross.Droid.Services.MvxBroadcastReceiver, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.services.MvxBroadcastReceiver
+MvvmCross.Droid.Services.MvxBroadcastReceiver;mvvmcross.droid.services.MvxBroadcastReceiver
+mvvmcross.droid.services.MvxBroadcastReceiver;mvvmcross.droid.services.MvxBroadcastReceiver
+MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid;mvvmcross.droid.services.MvxIntentService
+MvvmCross.Droid.Services.MvxIntentService, MvvmCross.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.services.MvxIntentService
+MvvmCross.Droid.Services.MvxIntentService;mvvmcross.droid.services.MvxIntentService
+mvvmcross.droid.services.MvxIntentService;mvvmcross.droid.services.MvxIntentService
+MvvmCross.Droid.Support.V4.MvxSwipeRefreshLayout, MvvmCross.Droid.Support.Core.UI;mvvmcross.droid.support.v4.MvxSwipeRefreshLayout
+MvvmCross.Droid.Support.V4.MvxSwipeRefreshLayout, MvvmCross.Droid.Support.Core.UI, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxSwipeRefreshLayout
+MvvmCross.Droid.Support.V4.MvxSwipeRefreshLayout;mvvmcross.droid.support.v4.MvxSwipeRefreshLayout
+mvvmcross.droid.support.v4.MvxSwipeRefreshLayout;mvvmcross.droid.support.v4.MvxSwipeRefreshLayout
+MvvmCross.Droid.Support.V4.MvxCachingFragmentPagerAdapter, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxCachingFragmentPagerAdapter
+MvvmCross.Droid.Support.V4.MvxCachingFragmentPagerAdapter, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxCachingFragmentPagerAdapter
+MvvmCross.Droid.Support.V4.MvxCachingFragmentPagerAdapter;mvvmcross.droid.support.v4.MvxCachingFragmentPagerAdapter
+mvvmcross.droid.support.v4.MvxCachingFragmentPagerAdapter;mvvmcross.droid.support.v4.MvxCachingFragmentPagerAdapter
+MvvmCross.Droid.Support.V4.MvxCachingFragmentStatePagerAdapter, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxCachingFragmentStatePagerAdapter
+MvvmCross.Droid.Support.V4.MvxCachingFragmentStatePagerAdapter, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxCachingFragmentStatePagerAdapter
+MvvmCross.Droid.Support.V4.MvxCachingFragmentStatePagerAdapter;mvvmcross.droid.support.v4.MvxCachingFragmentStatePagerAdapter
+mvvmcross.droid.support.v4.MvxCachingFragmentStatePagerAdapter;mvvmcross.droid.support.v4.MvxCachingFragmentStatePagerAdapter
+MvvmCross.Droid.Support.V4.MvxDialogFragment, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxDialogFragment
+MvvmCross.Droid.Support.V4.MvxDialogFragment, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxDialogFragment
+MvvmCross.Droid.Support.V4.MvxDialogFragment;mvvmcross.droid.support.v4.MvxDialogFragment
+mvvmcross.droid.support.v4.MvxDialogFragment;mvvmcross.droid.support.v4.MvxDialogFragment
+MvvmCross.Droid.Support.V4.MvxDialogFragment`1, MvvmCross.Droid.Support.Fragment;md50137e141328b4101e4122ad814a89fd1.MvxDialogFragment_1
+MvvmCross.Droid.Support.V4.MvxDialogFragment`1, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md50137e141328b4101e4122ad814a89fd1.MvxDialogFragment_1
+MvvmCross.Droid.Support.V4.MvxDialogFragment`1;md50137e141328b4101e4122ad814a89fd1.MvxDialogFragment_1
+mvvmcross.droid.support.v4.MvxDialogFragment_1;md50137e141328b4101e4122ad814a89fd1.MvxDialogFragment_1
+MvvmCross.Droid.Support.V4.MvxFragment, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxFragment
+MvvmCross.Droid.Support.V4.MvxFragment, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxFragment
+MvvmCross.Droid.Support.V4.MvxFragment;mvvmcross.droid.support.v4.MvxFragment
+mvvmcross.droid.support.v4.MvxFragment;mvvmcross.droid.support.v4.MvxFragment
+MvvmCross.Droid.Support.V4.MvxFragment`1, MvvmCross.Droid.Support.Fragment;md50137e141328b4101e4122ad814a89fd1.MvxFragment_1
+MvvmCross.Droid.Support.V4.MvxFragment`1, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md50137e141328b4101e4122ad814a89fd1.MvxFragment_1
+MvvmCross.Droid.Support.V4.MvxFragment`1;md50137e141328b4101e4122ad814a89fd1.MvxFragment_1
+mvvmcross.droid.support.v4.MvxFragment_1;md50137e141328b4101e4122ad814a89fd1.MvxFragment_1
+MvvmCross.Droid.Support.V4.MvxFragmentActivity, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxFragmentActivity
+MvvmCross.Droid.Support.V4.MvxFragmentActivity, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxFragmentActivity
+MvvmCross.Droid.Support.V4.MvxFragmentActivity;mvvmcross.droid.support.v4.MvxFragmentActivity
+mvvmcross.droid.support.v4.MvxFragmentActivity;mvvmcross.droid.support.v4.MvxFragmentActivity
+MvvmCross.Droid.Support.V4.MvxFragmentActivity`1, MvvmCross.Droid.Support.Fragment;md50137e141328b4101e4122ad814a89fd1.MvxFragmentActivity_1
+MvvmCross.Droid.Support.V4.MvxFragmentActivity`1, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md50137e141328b4101e4122ad814a89fd1.MvxFragmentActivity_1
+MvvmCross.Droid.Support.V4.MvxFragmentActivity`1;md50137e141328b4101e4122ad814a89fd1.MvxFragmentActivity_1
+mvvmcross.droid.support.v4.MvxFragmentActivity_1;md50137e141328b4101e4122ad814a89fd1.MvxFragmentActivity_1
+MvvmCross.Droid.Support.V4.MvxFragmentPagerAdapter, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxFragmentPagerAdapter
+MvvmCross.Droid.Support.V4.MvxFragmentPagerAdapter, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxFragmentPagerAdapter
+MvvmCross.Droid.Support.V4.MvxFragmentPagerAdapter;mvvmcross.droid.support.v4.MvxFragmentPagerAdapter
+mvvmcross.droid.support.v4.MvxFragmentPagerAdapter;mvvmcross.droid.support.v4.MvxFragmentPagerAdapter
+MvvmCross.Droid.Support.V4.MvxFragmentStatePagerAdapter, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxFragmentStatePagerAdapter
+MvvmCross.Droid.Support.V4.MvxFragmentStatePagerAdapter, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxFragmentStatePagerAdapter
+MvvmCross.Droid.Support.V4.MvxFragmentStatePagerAdapter;mvvmcross.droid.support.v4.MvxFragmentStatePagerAdapter
+mvvmcross.droid.support.v4.MvxFragmentStatePagerAdapter;mvvmcross.droid.support.v4.MvxFragmentStatePagerAdapter
+MvvmCross.Droid.Support.V4.MvxTabsFragmentActivity, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxTabsFragmentActivity
+MvvmCross.Droid.Support.V4.MvxTabsFragmentActivity, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxTabsFragmentActivity
+MvvmCross.Droid.Support.V4.MvxTabsFragmentActivity;mvvmcross.droid.support.v4.MvxTabsFragmentActivity
+mvvmcross.droid.support.v4.MvxTabsFragmentActivity;mvvmcross.droid.support.v4.MvxTabsFragmentActivity
+MvvmCross.Droid.Support.V4.MvxTabsFragmentActivity/TabFactory, MvvmCross.Droid.Support.Fragment;mvvmcross.droid.support.v4.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.Support.V4.MvxTabsFragmentActivity+TabFactory, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v4.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.Support.V4.MvxTabsFragmentActivity.TabFactory;mvvmcross.droid.support.v4.MvxTabsFragmentActivity_TabFactory
+mvvmcross.droid.support.v4.MvxTabsFragmentActivity_TabFactory;mvvmcross.droid.support.v4.MvxTabsFragmentActivity_TabFactory
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceDialogFragment, MvvmCross.Droid.Support.Fragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceDialogFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceDialogFragment, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceDialogFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceDialogFragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceDialogFragment
+mvvmcross.droid.support.v4.eventsource.MvxEventSourceDialogFragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceDialogFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceFragment, MvvmCross.Droid.Support.Fragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceFragment, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceFragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragment
+mvvmcross.droid.support.v4.eventsource.MvxEventSourceFragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceFragmentActivity, MvvmCross.Droid.Support.Fragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragmentActivity
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceFragmentActivity, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragmentActivity
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceFragmentActivity;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragmentActivity
+mvvmcross.droid.support.v4.eventsource.MvxEventSourceFragmentActivity;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceFragmentActivity
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceListFragment, MvvmCross.Droid.Support.Fragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceListFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceListFragment, MvvmCross.Droid.Support.Fragment, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceListFragment
+MvvmCross.Droid.Support.V4.EventSource.MvxEventSourceListFragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceListFragment
+mvvmcross.droid.support.v4.eventsource.MvxEventSourceListFragment;md5e282a28907cd5b53d4385afa0f063890.MvxEventSourceListFragment
+MvvmCross.Droid.Support.V7.AppCompat.MvxActionBarDrawerToggle, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.MvxActionBarDrawerToggle
+MvvmCross.Droid.Support.V7.AppCompat.MvxActionBarDrawerToggle, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.MvxActionBarDrawerToggle
+MvvmCross.Droid.Support.V7.AppCompat.MvxActionBarDrawerToggle;mvvmcross.droid.support.v7.appcompat.MvxActionBarDrawerToggle
+mvvmcross.droid.support.v7.appcompat.MvxActionBarDrawerToggle;mvvmcross.droid.support.v7.appcompat.MvxActionBarDrawerToggle
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatActivity, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.MvxAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatActivity, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.MvxAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatActivity;mvvmcross.droid.support.v7.appcompat.MvxAppCompatActivity
+mvvmcross.droid.support.v7.appcompat.MvxAppCompatActivity;mvvmcross.droid.support.v7.appcompat.MvxAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatActivity`1, MvvmCross.Droid.Support.V7.AppCompat;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatActivity_1
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatActivity`1, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatActivity_1
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatActivity`1;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatActivity_1
+mvvmcross.droid.support.v7.appcompat.MvxAppCompatActivity_1;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatActivity_1
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatDialogFragment, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.MvxAppCompatDialogFragment
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatDialogFragment, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.MvxAppCompatDialogFragment
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatDialogFragment;mvvmcross.droid.support.v7.appcompat.MvxAppCompatDialogFragment
+mvvmcross.droid.support.v7.appcompat.MvxAppCompatDialogFragment;mvvmcross.droid.support.v7.appcompat.MvxAppCompatDialogFragment
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatDialogFragment`1, MvvmCross.Droid.Support.V7.AppCompat;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatDialogFragment_1
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatDialogFragment`1, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatDialogFragment_1
+MvvmCross.Droid.Support.V7.AppCompat.MvxAppCompatDialogFragment`1;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatDialogFragment_1
+mvvmcross.droid.support.v7.appcompat.MvxAppCompatDialogFragment_1;md589a2cbaf5c4ccffb10ba6137c86da2d7.MvxAppCompatDialogFragment_1
+MvvmCross.Droid.Support.V7.AppCompat.MvxSplashScreenAppCompatActivity, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.MvxSplashScreenAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.MvxSplashScreenAppCompatActivity, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.MvxSplashScreenAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.MvxSplashScreenAppCompatActivity;mvvmcross.droid.support.v7.appcompat.MvxSplashScreenAppCompatActivity
+mvvmcross.droid.support.v7.appcompat.MvxSplashScreenAppCompatActivity;mvvmcross.droid.support.v7.appcompat.MvxSplashScreenAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatAutoCompleteTextView, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatAutoCompleteTextView
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatAutoCompleteTextView, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatAutoCompleteTextView
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatAutoCompleteTextView;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatAutoCompleteTextView
+mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatAutoCompleteTextView;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatAutoCompleteTextView
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatImageView, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatImageView
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatImageView, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatImageView
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatImageView;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatImageView
+mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatImageView;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatImageView
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatRadioGroup, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatRadioGroup
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatRadioGroup, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatRadioGroup
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatRadioGroup;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatRadioGroup
+mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatRadioGroup;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatRadioGroup
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatSpinner, MvvmCross.Droid.Support.V7.AppCompat;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatSpinner
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatSpinner, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatSpinner
+MvvmCross.Droid.Support.V7.AppCompat.Widget.MvxAppCompatSpinner;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatSpinner
+mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatSpinner;mvvmcross.droid.support.v7.appcompat.widget.MvxAppCompatSpinner
+MvvmCross.Droid.Support.V7.AppCompat.EventSource.MvxEventSourceAppCompatDialogFragment, MvvmCross.Droid.Support.V7.AppCompat;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatDialogFragment
+MvvmCross.Droid.Support.V7.AppCompat.EventSource.MvxEventSourceAppCompatDialogFragment, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatDialogFragment
+MvvmCross.Droid.Support.V7.AppCompat.EventSource.MvxEventSourceAppCompatDialogFragment;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatDialogFragment
+mvvmcross.droid.support.v7.appcompat.eventsource.MvxEventSourceAppCompatDialogFragment;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatDialogFragment
+MvvmCross.Droid.Support.V7.AppCompat.EventSource.MvxEventSourceAppCompatActivity, MvvmCross.Droid.Support.V7.AppCompat;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.EventSource.MvxEventSourceAppCompatActivity, MvvmCross.Droid.Support.V7.AppCompat, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatActivity
+MvvmCross.Droid.Support.V7.AppCompat.EventSource.MvxEventSourceAppCompatActivity;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatActivity
+mvvmcross.droid.support.v7.appcompat.eventsource.MvxEventSourceAppCompatActivity;md535be1fdfc54403626bdc010d77dba2b8.MvxEventSourceAppCompatActivity
+MvvmCross.Droid.Support.V7.RecyclerView.MvxGuardedLinearLayoutManager, MvvmCross.Droid.Support.V7.RecyclerView;mvvmcross.droid.support.v7.recyclerview.MvxGuardedLinearLayoutManager
+MvvmCross.Droid.Support.V7.RecyclerView.MvxGuardedLinearLayoutManager, MvvmCross.Droid.Support.V7.RecyclerView, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.recyclerview.MvxGuardedLinearLayoutManager
+MvvmCross.Droid.Support.V7.RecyclerView.MvxGuardedLinearLayoutManager;mvvmcross.droid.support.v7.recyclerview.MvxGuardedLinearLayoutManager
+mvvmcross.droid.support.v7.recyclerview.MvxGuardedLinearLayoutManager;mvvmcross.droid.support.v7.recyclerview.MvxGuardedLinearLayoutManager
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerAdapter, MvvmCross.Droid.Support.V7.RecyclerView;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerAdapter
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerAdapter, MvvmCross.Droid.Support.V7.RecyclerView, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerAdapter
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerAdapter;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerAdapter
+mvvmcross.droid.support.v7.recyclerview.MvxRecyclerAdapter;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerAdapter
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView, MvvmCross.Droid.Support.V7.RecyclerView;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView, MvvmCross.Droid.Support.V7.RecyclerView, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerView;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView
+mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerView
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerViewHolder, MvvmCross.Droid.Support.V7.RecyclerView;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerViewHolder
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerViewHolder, MvvmCross.Droid.Support.V7.RecyclerView, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerViewHolder
+MvvmCross.Droid.Support.V7.RecyclerView.MvxRecyclerViewHolder;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerViewHolder
+mvvmcross.droid.support.v7.recyclerview.MvxRecyclerViewHolder;mvvmcross.droid.support.v7.recyclerview.MvxRecyclerViewHolder
+MvvmCross.Platform.Droid.MvxJavaContainer, MvvmCross.Platform.Droid;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer
+MvvmCross.Platform.Droid.MvxJavaContainer, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer
+MvvmCross.Platform.Droid.MvxJavaContainer;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer
+mvvmcross.platform.droid.MvxJavaContainer;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer
+MvvmCross.Platform.Droid.MvxJavaContainer`1, MvvmCross.Platform.Droid;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer_1
+MvvmCross.Platform.Droid.MvxJavaContainer`1, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer_1
+MvvmCross.Platform.Droid.MvxJavaContainer`1;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer_1
+mvvmcross.platform.droid.MvxJavaContainer_1;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxJavaContainer_1
+MvvmCross.Platform.Droid.MvxReplaceableJavaContainer, MvvmCross.Platform.Droid;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxReplaceableJavaContainer
+MvvmCross.Platform.Droid.MvxReplaceableJavaContainer, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxReplaceableJavaContainer
+MvvmCross.Platform.Droid.MvxReplaceableJavaContainer;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxReplaceableJavaContainer
+mvvmcross.platform.droid.MvxReplaceableJavaContainer;md5ee2885e3eb009bf70c58c9dfbf8f4da7.MvxReplaceableJavaContainer
+MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid;mvvmcross.platform.droid.views.MvxEventSourceActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceActivity, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.platform.droid.views.MvxEventSourceActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceActivity;mvvmcross.platform.droid.views.MvxEventSourceActivity
+mvvmcross.platform.droid.views.MvxEventSourceActivity;mvvmcross.platform.droid.views.MvxEventSourceActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity, MvvmCross.Platform.Droid, Version=5.7.0.0, Culture=neutral, PublicKeyToken=null;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+MvvmCross.Platform.Droid.Views.MvxEventSourceTabActivity;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+mvvmcross.platform.droid.views.MvxEventSourceTabActivity;mvvmcross.platform.droid.views.MvxEventSourceTabActivity
+Android.Support.V4.View.ActionProvider/ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+ISubUiVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.ISubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_SubUiVisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider/IVisibilityListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider+IVisibilityListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.ActionProvider.IVisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor;mono.android.support.v4.view.ActionProvider_VisibilityListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IOnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor;mono.android.support.v4.view.OnApplyWindowInsetsListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.IViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor;mono.android.support.v4.view.ViewPropertyAnimatorUpdateListenerImplementor
+Android.Support.V4.View.MenuItemCompat/IOnActionExpandListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat+IOnActionExpandListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.MenuItemCompat.IOnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor;mono.android.support.v4.view.MenuItemCompat_OnActionExpandListenerImplementor
+Android.Support.V4.View.Accessibility.AccessibilityManagerCompat/IAccessibilityStateChangeListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
+Android.Support.V4.View.Accessibility.AccessibilityManagerCompat+IAccessibilityStateChangeListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
+Android.Support.V4.View.Accessibility.AccessibilityManagerCompat.IAccessibilityStateChangeListenerImplementor;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
+mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
+Android.Support.V4.View.Accessibility.AccessibilityManagerCompat/ITouchExplorationStateChangeListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
+Android.Support.V4.View.Accessibility.AccessibilityManagerCompat+ITouchExplorationStateChangeListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
+Android.Support.V4.View.Accessibility.AccessibilityManagerCompat.ITouchExplorationStateChangeListenerImplementor;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
+mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor;mono.android.support.v4.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
+Android.Support.V4.OS.CancellationSignal/IOnCancelListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+Android.Support.V4.OS.CancellationSignal+IOnCancelListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+Android.Support.V4.OS.CancellationSignal.IOnCancelListenerImplementor;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor;mono.android.support.v4.os.CancellationSignal_OnCancelListenerImplementor
+Android.Support.V4.App.SharedElementCallback/IOnSharedElementsReadyListenerImplementor, Xamarin.Android.Support.Compat;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor
+Android.Support.V4.App.SharedElementCallback+IOnSharedElementsReadyListenerImplementor, Xamarin.Android.Support.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor
+Android.Support.V4.App.SharedElementCallback.IOnSharedElementsReadyListenerImplementor;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor
+mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor;mono.android.support.v4.app.SharedElementCallback_OnSharedElementsReadyListenerImplementor
+Android.Support.V4.View.AsyncLayoutInflater/IOnInflateFinishedListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.view.AsyncLayoutInflater_OnInflateFinishedListenerImplementor
+Android.Support.V4.View.AsyncLayoutInflater+IOnInflateFinishedListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.AsyncLayoutInflater_OnInflateFinishedListenerImplementor
+Android.Support.V4.View.AsyncLayoutInflater.IOnInflateFinishedListenerImplementor;mono.android.support.v4.view.AsyncLayoutInflater_OnInflateFinishedListenerImplementor
+mono.android.support.v4.view.AsyncLayoutInflater_OnInflateFinishedListenerImplementor;mono.android.support.v4.view.AsyncLayoutInflater_OnInflateFinishedListenerImplementor
+Android.Support.V4.View.ViewPager/IOnAdapterChangeListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.view.ViewPager_OnAdapterChangeListenerImplementor
+Android.Support.V4.View.ViewPager+IOnAdapterChangeListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnAdapterChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnAdapterChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnAdapterChangeListenerImplementor
+mono.android.support.v4.view.ViewPager_OnAdapterChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnAdapterChangeListenerImplementor
+Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout/IOnRefreshListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout+IOnRefreshListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.SwipeRefreshLayout.IOnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor;mono.android.support.v4.widget.SwipeRefreshLayout_OnRefreshListenerImplementor
+Android.Support.V4.Widget.DrawerLayout/IDrawerListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout+IDrawerListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.DrawerLayout.IDrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor;mono.android.support.v4.widget.DrawerLayout_DrawerListenerImplementor
+Android.Support.V4.Widget.NestedScrollView/IOnScrollChangeListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.widget.NestedScrollView_OnScrollChangeListenerImplementor
+Android.Support.V4.Widget.NestedScrollView+IOnScrollChangeListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.NestedScrollView_OnScrollChangeListenerImplementor
+Android.Support.V4.Widget.NestedScrollView.IOnScrollChangeListenerImplementor;mono.android.support.v4.widget.NestedScrollView_OnScrollChangeListenerImplementor
+mono.android.support.v4.widget.NestedScrollView_OnScrollChangeListenerImplementor;mono.android.support.v4.widget.NestedScrollView_OnScrollChangeListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xamarin.Android.Support.Core.UI;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout+IPanelSlideListenerImplementor, Xamarin.Android.Support.Core.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCanceledListenerImplementor, Xamarin.Android.Support.Core.Utils;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+Android.Support.V4.Content.Loader+IOnLoadCanceledListenerImplementor, Xamarin.Android.Support.Core.Utils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCanceledListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCanceledListenerImplementor
+Android.Support.V4.Content.Loader/IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.Core.Utils;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.Core.Utils, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.V4.Content.Loader.IOnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor;mono.android.support.v4.content.Loader_OnLoadCompleteListenerImplementor
+Android.Support.Design.Widget.AppBarLayout/IOnOffsetChangedListenerImplementor, Xamarin.Android.Support.Design;mono.android.support.design.widget.AppBarLayout_OnOffsetChangedListenerImplementor
+Android.Support.Design.Widget.AppBarLayout+IOnOffsetChangedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.AppBarLayout_OnOffsetChangedListenerImplementor
+Android.Support.Design.Widget.AppBarLayout.IOnOffsetChangedListenerImplementor;mono.android.support.design.widget.AppBarLayout_OnOffsetChangedListenerImplementor
+mono.android.support.design.widget.AppBarLayout_OnOffsetChangedListenerImplementor;mono.android.support.design.widget.AppBarLayout_OnOffsetChangedListenerImplementor
+Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
+Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
+Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
+android.support.design.widget.Snackbar_SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
+Android.Support.Design.Widget.TabLayout/IOnTabSelectedListenerImplementor, Xamarin.Android.Support.Design;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
+Android.Support.Design.Widget.TabLayout+IOnTabSelectedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
+Android.Support.Design.Widget.TabLayout.IOnTabSelectedListenerImplementor;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
+mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
+Android.Support.Design.Widget.BottomNavigationView/IOnNavigationItemReselectedListenerImplementor, Xamarin.Android.Support.Design;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemReselectedListenerImplementor
+Android.Support.Design.Widget.BottomNavigationView+IOnNavigationItemReselectedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemReselectedListenerImplementor
+Android.Support.Design.Widget.BottomNavigationView.IOnNavigationItemReselectedListenerImplementor;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemReselectedListenerImplementor
+mono.android.support.design.widget.BottomNavigationView_OnNavigationItemReselectedListenerImplementor;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemReselectedListenerImplementor
+Android.Support.Design.Widget.BottomNavigationView/IOnNavigationItemSelectedListenerImplementor, Xamarin.Android.Support.Design;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemSelectedListenerImplementor
+Android.Support.Design.Widget.BottomNavigationView+IOnNavigationItemSelectedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemSelectedListenerImplementor
+Android.Support.Design.Widget.BottomNavigationView.IOnNavigationItemSelectedListenerImplementor;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemSelectedListenerImplementor
+mono.android.support.design.widget.BottomNavigationView_OnNavigationItemSelectedListenerImplementor;mono.android.support.design.widget.BottomNavigationView_OnNavigationItemSelectedListenerImplementor
+Android.Support.Design.Widget.NavigationView/IOnNavigationItemSelectedListenerImplementor, Xamarin.Android.Support.Design;mono.android.support.design.widget.NavigationView_OnNavigationItemSelectedListenerImplementor
+Android.Support.Design.Widget.NavigationView+IOnNavigationItemSelectedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.NavigationView_OnNavigationItemSelectedListenerImplementor
+Android.Support.Design.Widget.NavigationView.IOnNavigationItemSelectedListenerImplementor;mono.android.support.design.widget.NavigationView_OnNavigationItemSelectedListenerImplementor
+mono.android.support.design.widget.NavigationView_OnNavigationItemSelectedListenerImplementor;mono.android.support.design.widget.NavigationView_OnNavigationItemSelectedListenerImplementor
+Android.Support.Design.Widget.SwipeDismissBehavior/IOnDismissListenerImplementor, Xamarin.Android.Support.Design;mono.android.support.design.widget.SwipeDismissBehavior_OnDismissListenerImplementor
+Android.Support.Design.Widget.SwipeDismissBehavior+IOnDismissListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.SwipeDismissBehavior_OnDismissListenerImplementor
+Android.Support.Design.Widget.SwipeDismissBehavior.IOnDismissListenerImplementor;mono.android.support.design.widget.SwipeDismissBehavior_OnDismissListenerImplementor
+mono.android.support.design.widget.SwipeDismissBehavior_OnDismissListenerImplementor;mono.android.support.design.widget.SwipeDismissBehavior_OnDismissListenerImplementor
+Android.Support.V4.App.FragmentManager/IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.Fragment;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager+IOnBackStackChangedListenerImplementor, Xamarin.Android.Support.Fragment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.App.FragmentManager.IOnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor;mono.android.support.v4.app.FragmentManager_OnBackStackChangedListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat/IOnActiveChangeListenerImplementor, Xamarin.Android.Support.Media.Compat;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat+IOnActiveChangeListenerImplementor, Xamarin.Android.Support.Media.Compat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.V4.Media.Session.MediaSessionCompat.IOnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor;mono.android.support.v4.media.session.MediaSessionCompat_OnActiveChangeListenerImplementor
+Android.Support.Transitions.Transition/ITransitionListenerImplementor, Xamarin.Android.Support.Transition;mono.android.support.transition.Transition_TransitionListenerImplementor
+Android.Support.Transitions.Transition+ITransitionListenerImplementor, Xamarin.Android.Support.Transition, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.transition.Transition_TransitionListenerImplementor
+Android.Support.Transitions.Transition.ITransitionListenerImplementor;mono.android.support.transition.Transition_TransitionListenerImplementor
+mono.android.support.transition.Transition_TransitionListenerImplementor;mono.android.support.transition.Transition_TransitionListenerImplementor
+Android.Support.V7.Widget.Toolbar/NavigationOnClickEventDispatcher, Xamarin.Android.Support.v7.AppCompat;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+Android.Support.V7.Widget.Toolbar+NavigationOnClickEventDispatcher, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+Android.Support.V7.Widget.Toolbar.NavigationOnClickEventDispatcher;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher;android.support.v7.widget.Toolbar_NavigationOnClickEventDispatcher
+Android.Support.V7.Widget.Toolbar/IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.Toolbar+IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.Toolbar.IOnMenuItemClickListenerImplementor;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor;mono.android.support.v7.widget.Toolbar_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.ActionMenuView/IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.ActionMenuView_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.ActionMenuView+IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.ActionMenuView_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.ActionMenuView.IOnMenuItemClickListenerImplementor;mono.android.support.v7.widget.ActionMenuView_OnMenuItemClickListenerImplementor
+mono.android.support.v7.widget.ActionMenuView_OnMenuItemClickListenerImplementor;mono.android.support.v7.widget.ActionMenuView_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.ContentFrameLayout/IOnAttachListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.ContentFrameLayout_OnAttachListenerImplementor
+Android.Support.V7.Widget.ContentFrameLayout+IOnAttachListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.ContentFrameLayout_OnAttachListenerImplementor
+Android.Support.V7.Widget.ContentFrameLayout.IOnAttachListenerImplementor;mono.android.support.v7.widget.ContentFrameLayout_OnAttachListenerImplementor
+mono.android.support.v7.widget.ContentFrameLayout_OnAttachListenerImplementor;mono.android.support.v7.widget.ContentFrameLayout_OnAttachListenerImplementor
+Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor
+Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor
+Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor;mono.android.support.v7.widget.FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor
+mono.android.support.v7.widget.FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor;mono.android.support.v7.widget.FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor
+Android.Support.V7.Widget.IMenuItemHoverListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.MenuItemHoverListenerImplementor
+Android.Support.V7.Widget.IMenuItemHoverListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.MenuItemHoverListenerImplementor
+Android.Support.V7.Widget.IMenuItemHoverListenerImplementor;mono.android.support.v7.widget.MenuItemHoverListenerImplementor
+mono.android.support.v7.widget.MenuItemHoverListenerImplementor;mono.android.support.v7.widget.MenuItemHoverListenerImplementor
+Android.Support.V7.Widget.PopupMenu/IOnDismissListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+Android.Support.V7.Widget.PopupMenu+IOnDismissListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+Android.Support.V7.Widget.PopupMenu.IOnDismissListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnDismissListenerImplementor
+Android.Support.V7.Widget.PopupMenu/IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.PopupMenu+IOnMenuItemClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.PopupMenu.IOnMenuItemClickListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor;mono.android.support.v7.widget.PopupMenu_OnMenuItemClickListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnCloseListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+Android.Support.V7.Widget.SearchView+IOnCloseListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+Android.Support.V7.Widget.SearchView.IOnCloseListenerImplementor;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor;mono.android.support.v7.widget.SearchView_OnCloseListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnQueryTextListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+Android.Support.V7.Widget.SearchView+IOnQueryTextListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+Android.Support.V7.Widget.SearchView.IOnQueryTextListenerImplementor;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor;mono.android.support.v7.widget.SearchView_OnQueryTextListenerImplementor
+Android.Support.V7.Widget.SearchView/IOnSuggestionListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+Android.Support.V7.Widget.SearchView+IOnSuggestionListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+Android.Support.V7.Widget.SearchView.IOnSuggestionListenerImplementor;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor;mono.android.support.v7.widget.SearchView_OnSuggestionListenerImplementor
+Android.Support.V7.Widget.ShareActionProvider/IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+Android.Support.V7.Widget.ShareActionProvider+IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+Android.Support.V7.Widget.ShareActionProvider.IOnShareTargetSelectedListenerImplementor;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor;mono.android.support.v7.widget.ShareActionProvider_OnShareTargetSelectedListenerImplementor
+Android.Support.V7.Widget.ViewStubCompat/IOnInflateListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
+Android.Support.V7.Widget.ViewStubCompat+IOnInflateListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
+Android.Support.V7.Widget.ViewStubCompat.IOnInflateListenerImplementor;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
+mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
+Android.Support.V7.App.AlertDialog/IDialogInterfaceOnClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
+Android.Support.V7.App.AlertDialog+IDialogInterfaceOnClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
+Android.Support.V7.App.AlertDialog.IDialogInterfaceOnClickListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
+android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
+Android.Support.V7.App.AlertDialog/IDialogInterfaceOnCancelListenerImplementor, Xamarin.Android.Support.v7.AppCompat;android.support.v7.app.AlertDialog_IDialogInterfaceOnCancelListenerImplementor
+Android.Support.V7.App.AlertDialog+IDialogInterfaceOnCancelListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.v7.app.AlertDialog_IDialogInterfaceOnCancelListenerImplementor
+Android.Support.V7.App.AlertDialog.IDialogInterfaceOnCancelListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnCancelListenerImplementor
+android.support.v7.app.AlertDialog_IDialogInterfaceOnCancelListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnCancelListenerImplementor
+Android.Support.V7.App.AlertDialog/IDialogInterfaceOnMultiChoiceClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;android.support.v7.app.AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor
+Android.Support.V7.App.AlertDialog+IDialogInterfaceOnMultiChoiceClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.v7.app.AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor
+Android.Support.V7.App.AlertDialog.IDialogInterfaceOnMultiChoiceClickListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor
+android.support.v7.app.AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor
+Android.Support.V7.App.ActionBar/IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar+IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar.IOnMenuVisibilityListenerImplementor;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor;mono.android.support.v7.app.ActionBar_OnMenuVisibilityListenerImplementor
+Android.Support.V7.App.ActionBar/IOnNavigationListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+Android.Support.V7.App.ActionBar+IOnNavigationListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+Android.Support.V7.App.ActionBar.IOnNavigationListenerImplementor;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor;mono.android.support.v7.app.ActionBar_OnNavigationListenerImplementor
+Android.Support.V7.App.ActionBar/ITabListenerImplementor, Xamarin.Android.Support.v7.AppCompat;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+Android.Support.V7.App.ActionBar+ITabListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+Android.Support.V7.App.ActionBar.ITabListenerImplementor;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+mono.android.support.v7.app.ActionBar_TabListenerImplementor;mono.android.support.v7.app.ActionBar_TabListenerImplementor
+Android.Support.V7.Widget.RecyclerView/ItemAnimator/IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView+ItemAnimator+IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView.ItemAnimator.IItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor

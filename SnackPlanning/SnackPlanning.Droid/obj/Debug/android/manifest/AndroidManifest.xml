@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.companyname.SnackPlanning" android:versionCode="1" android:versionName="@string/VersionName" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="15" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <application android:label="@string/ApplicationName" android:icon="@mipmap/ic_launcher" android:theme="@style/MyTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:icon="@mipmap/ic_launcher" android:label="SnackPlanning" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="View for FirstViewModel" android:name="md5e2521e171aa2c9585864f98d4e4ed3b5.FirstView" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.companyname.SnackPlanning.mono.MonoRuntimeProvider.__mono_init__" />
+    <!--suppress ExportedReceiver-->
+    <receiver android:name="mono.android.Seppuku">
+      <intent-filter>
+        <action android:name="mono.android.intent.action.SEPPUKU" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.companyname.SnackPlanning" />
+      </intent-filter>
+    </receiver>
+  </application>
+</manifest>
