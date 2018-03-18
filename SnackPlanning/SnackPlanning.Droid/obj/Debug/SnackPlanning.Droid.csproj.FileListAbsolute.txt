@@ -29,12 +29,16 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/layout/loginview.xml
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/R.cs.flag
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/uploadflags.txt
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Acr.UserDialogs.Interface.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Mono.Android.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Mono.Android.Export.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/SnackPlanning.Droid.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/Acr.UserDialogs.Interface.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/Mono.Android.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/Mono.Android.Export.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/SnackPlanning.Core.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Acr.Support.Android.dll.mdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Acr.UserDialogs.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/MvvmCross.Binding.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/MvvmCross.Binding.Droid.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/MvvmCross.Core.dll.mdb
@@ -46,6 +50,8 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/MvvmCross.Localization.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/MvvmCross.Platform.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/MvvmCross.Platform.Droid.dll.mdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/Acr.Support.Android.dll.mdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/Acr.UserDialogs.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/MvvmCross.Binding.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/MvvmCross.Binding.Droid.dll.mdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/linksrc/MvvmCross.Core.dll.mdb

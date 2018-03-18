@@ -27,7 +27,8 @@
                     android:id="@+id/input_username"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/usernameLabel" />
+                    android:hint="@string/usernameLabel"
+                    local:MvxBind="Text Username" />
             </android.support.design.widget.TextInputLayout>
             <android.support.design.widget.TextInputLayout
                 android:id="@+id/input_layout_password"
@@ -38,20 +39,23 @@
                     android:id="@+id/input_password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="@string/passwordLabel" />
+                    android:hint="@string/passwordLabel"
+                    local:MvxBind="Text Password" />
             </android.support.design.widget.TextInputLayout>
             <Button
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
                 android:text="@string/loginButtonLabel"
                 android:theme="@style/Widget.AppCompat.Button"
-                android:layout_gravity="center" />
+                android:layout_gravity="center"
+                local:MvxBind="Click LoginCommand" />
             <Button
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
                 android:text="@string/registerButtonLabel"
                 android:theme="@style/Widget.AppCompat.Button"
-                android:layout_gravity="center" />
+                android:layout_gravity="center"
+                local:MvxBind="Click RegisterCommand" />
         </LinearLayout>
     </FrameLayout>
 </RelativeLayout>

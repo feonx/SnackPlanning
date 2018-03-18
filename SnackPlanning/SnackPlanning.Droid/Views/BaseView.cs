@@ -1,3 +1,4 @@
+using Acr.UserDialogs;
 using Android.OS;
 using Android.Support.V7.Widget;
 using MvvmCross.Droid.Support.V7.AppCompat;
@@ -21,6 +22,8 @@ namespace SnackPlanning.Droid.Views
                 SupportActionBar.SetDisplayHomeAsUpEnabled(true);
                 SupportActionBar.SetHomeButtonEnabled(true);
             }
+
+            UserDialogs.Init(this);
         }
 
         protected abstract int LayoutResource { get; }

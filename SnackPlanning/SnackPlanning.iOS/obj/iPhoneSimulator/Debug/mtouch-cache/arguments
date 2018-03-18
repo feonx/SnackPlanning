@@ -13,6 +13,10 @@
 	--abi=x86_64 \
 	--symbollist=/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/mtouch-symbols.list \
 	--dsym=no \
+	-r=/Users/mdebree/.nuget/packages/acr.support/2.1.0/lib/Xamarin.iOS10/Acr.Support.iOS.dll \
+	-r=/Users/mdebree/.nuget/packages/acr.userdialogs/6.5.1/lib/Xamarin.iOS10/Acr.UserDialogs.dll \
+	-r=/Users/mdebree/.nuget/packages/acr.userdialogs/6.5.1/lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll \
+	-r=/Users/mdebree/.nuget/packages/btprogresshud/1.2.0.5/lib/Xamarin.iOS10/BTProgressHUD.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
@@ -21,7 +25,9 @@
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	-r=/Users/mdebree/.nuget/packages/newtonsoft.json/11.0.1/lib/netstandard2.0/Newtonsoft.Json.dll \
 	-r=/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/bin/Debug/netstandard1.4/SnackPlanning.Core.dll \
+	-r=/Users/mdebree/.nuget/packages/splat/2.0.0/lib/Xamarin.iOS10/Splat.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Xml.dll \
@@ -163,6 +169,10 @@
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XDocument.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.XPath.XmlDocument.dll \
 	-r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/Facades/System.Xml.Xsl.Primitives.dll \
+	-r=/Users/mdebree/.nuget/packages/acr.support/2.1.0/lib/Xamarin.iOS10/Acr.Support.iOS.dll \
+	-r=/Users/mdebree/.nuget/packages/acr.userdialogs/6.5.1/lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll \
+	-r=/Users/mdebree/.nuget/packages/acr.userdialogs/6.5.1/lib/Xamarin.iOS10/Acr.UserDialogs.dll \
+	-r=/Users/mdebree/.nuget/packages/btprogresshud/1.2.0.5/lib/Xamarin.iOS10/BTProgressHUD.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Binding.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
@@ -170,6 +180,8 @@
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.core/5.7.0/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	-r=/Users/mdebree/.nuget/packages/newtonsoft.json/11.0.1/lib/netstandard2.0/Newtonsoft.Json.dll \
+	-r=/Users/mdebree/.nuget/packages/splat/2.0.0/lib/Xamarin.iOS10/Splat.dll \
 	-r=/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/bin/Debug/netstandard1.4/SnackPlanning.Core.dll \
 	'--target-framework=Xamarin.iOS,v1.0' \
 	--root-assembly=/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.exe \

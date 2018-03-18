@@ -2,6 +2,40 @@
   "version": 3,
   "targets": {
     "Xamarin.iOS,Version=v1.0": {
+      "Acr.Support/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        }
+      },
+      "Acr.UserDialogs/6.5.1": {
+        "type": "package",
+        "dependencies": {
+          "Acr.Support": "[2.1.0, 3.0.0)",
+          "BTProgressHUD": "[1.2.0.5, 2.0.0)",
+          "Splat": "[2.0.0, 3.0.0)"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        }
+      },
+      "BTProgressHUD/1.2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        }
+      },
       "MvvmCross/5.7.0": {
         "type": "package",
         "dependencies": {
@@ -50,14 +84,34 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Splat/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        }
+      },
       "SnackPlanning.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Acr.UserDialogs": "6.5.1",
           "MvvmCross": "5.7.0",
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
-          "MvvmCross.Platform": "5.7.0"
+          "MvvmCross.Platform": "5.7.0",
+          "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
           "bin/placeholder/SnackPlanning.Core.dll": {}
@@ -68,6 +122,40 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win": {
+      "Acr.Support/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        }
+      },
+      "Acr.UserDialogs/6.5.1": {
+        "type": "package",
+        "dependencies": {
+          "Acr.Support": "[2.1.0, 3.0.0)",
+          "BTProgressHUD": "[1.2.0.5, 2.0.0)",
+          "Splat": "[2.0.0, 3.0.0)"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        }
+      },
+      "BTProgressHUD/1.2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        }
+      },
       "MvvmCross/5.7.0": {
         "type": "package",
         "dependencies": {
@@ -116,14 +204,34 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Splat/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        }
+      },
       "SnackPlanning.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Acr.UserDialogs": "6.5.1",
           "MvvmCross": "5.7.0",
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
-          "MvvmCross.Platform": "5.7.0"
+          "MvvmCross.Platform": "5.7.0",
+          "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
           "bin/placeholder/SnackPlanning.Core.dll": {}
@@ -134,6 +242,40 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x64": {
+      "Acr.Support/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        }
+      },
+      "Acr.UserDialogs/6.5.1": {
+        "type": "package",
+        "dependencies": {
+          "Acr.Support": "[2.1.0, 3.0.0)",
+          "BTProgressHUD": "[1.2.0.5, 2.0.0)",
+          "Splat": "[2.0.0, 3.0.0)"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        }
+      },
+      "BTProgressHUD/1.2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        }
+      },
       "MvvmCross/5.7.0": {
         "type": "package",
         "dependencies": {
@@ -182,14 +324,34 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Splat/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        }
+      },
       "SnackPlanning.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Acr.UserDialogs": "6.5.1",
           "MvvmCross": "5.7.0",
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
-          "MvvmCross.Platform": "5.7.0"
+          "MvvmCross.Platform": "5.7.0",
+          "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
           "bin/placeholder/SnackPlanning.Core.dll": {}
@@ -200,6 +362,40 @@
       }
     },
     "Xamarin.iOS,Version=v1.0/win-x86": {
+      "Acr.Support/2.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.Support.iOS.dll": {}
+        }
+      },
+      "Acr.UserDialogs/6.5.1": {
+        "type": "package",
+        "dependencies": {
+          "Acr.Support": "[2.1.0, 3.0.0)",
+          "BTProgressHUD": "[1.2.0.5, 2.0.0)",
+          "Splat": "[2.0.0, 3.0.0)"
+        },
+        "compile": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll": {},
+          "lib/Xamarin.iOS10/Acr.UserDialogs.dll": {}
+        }
+      },
+      "BTProgressHUD/1.2.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/BTProgressHUD.dll": {}
+        }
+      },
       "MvvmCross/5.7.0": {
         "type": "package",
         "dependencies": {
@@ -248,14 +444,34 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "Newtonsoft.Json/11.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Splat/2.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        },
+        "runtime": {
+          "lib/Xamarin.iOS10/Splat.dll": {}
+        }
+      },
       "SnackPlanning.Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v1.4",
         "dependencies": {
+          "Acr.UserDialogs": "6.5.1",
           "MvvmCross": "5.7.0",
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
-          "MvvmCross.Platform": "5.7.0"
+          "MvvmCross.Platform": "5.7.0",
+          "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
           "bin/placeholder/SnackPlanning.Core.dll": {}
@@ -267,6 +483,65 @@
     }
   },
   "libraries": {
+    "Acr.Support/2.1.0": {
+      "sha512": "Kq/+sDIUxyEcDxwIB6ijtaUWzp/KV68rdYVLHQ26au7q3Y+7fqiqE0571VALlbYHlXMtFRd8ap3VeLw4lf/GWQ==",
+      "type": "package",
+      "path": "acr.support/2.1.0",
+      "files": [
+        "acr.support.2.1.0.nupkg.sha512",
+        "acr.support.nuspec",
+        "lib/MonoAndroid10/Acr.Support.Android.dll",
+        "lib/MonoAndroid10/Acr.Support.Android.pdb",
+        "lib/Xamarin.iOS10/Acr.Support.iOS.dll",
+        "lib/Xamarin.tvOS10/Acr.Support.tvOS.dll",
+        "lib/Xamarin.tvOS10/Acr.Support.tvOS.dll.mdb",
+        "lib/Xamarin.tvOS10/Acr.Support.tvOS.pdb"
+      ]
+    },
+    "Acr.UserDialogs/6.5.1": {
+      "sha512": "Y0GGF+TuG+JOMe//LiNlrr2Hf+nD3/Irlie15pjkzspcR59WEi6N1UT4ZZNaQVE7fYrddTTnAsSco9XD6TbvNg==",
+      "type": "package",
+      "path": "acr.userdialogs/6.5.1",
+      "files": [
+        "acr.userdialogs.6.5.1.nupkg.sha512",
+        "acr.userdialogs.nuspec",
+        "lib/MonoAndroid10/Acr.UserDialogs.Interface.dll",
+        "lib/MonoAndroid10/Acr.UserDialogs.Interface.pdb",
+        "lib/MonoAndroid10/Acr.UserDialogs.dll",
+        "lib/MonoAndroid10/Acr.UserDialogs.pdb",
+        "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll",
+        "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.pdb",
+        "lib/Xamarin.iOS10/Acr.UserDialogs.dll",
+        "lib/Xamarin.iOS10/Acr.UserDialogs.pdb",
+        "lib/netstandard1.1/Acr.UserDialogs.Interface.dll",
+        "lib/netstandard1.1/Acr.UserDialogs.Interface.pdb",
+        "lib/netstandard1.1/Acr.UserDialogs.deps.json",
+        "lib/netstandard1.1/Acr.UserDialogs.dll",
+        "lib/netstandard1.1/Acr.UserDialogs.pdb",
+        "lib/uap10.0/Acr.UserDialogs.Interface.dll",
+        "lib/uap10.0/Acr.UserDialogs.Interface.pdb",
+        "lib/uap10.0/Acr.UserDialogs.dll",
+        "lib/uap10.0/Acr.UserDialogs.pdb",
+        "lib/uap10.0/Acr.UserDialogs.pri",
+        "lib/uap10.0/Acr.UserDialogs/Acr.UserDialogs.xr.xml",
+        "lib/uap10.0/Acr.UserDialogs/ActionSheetContentDialog.xaml",
+        "lib/uap10.0/Acr.UserDialogs/DatePickerControl.xaml",
+        "lib/uap10.0/Acr.UserDialogs/LoginContentDialog.xaml",
+        "lib/uap10.0/Acr.UserDialogs/ProgressContentDialog.xaml",
+        "lib/uap10.0/Acr.UserDialogs/Properties/Acr.UserDialogs.rd.xml",
+        "lib/uap10.0/Acr.UserDialogs/TimePickerControl.xaml"
+      ]
+    },
+    "BTProgressHUD/1.2.0.5": {
+      "sha512": "6Kr2TReJWBVZ91zJBYsIu7pIOuWlCvuM/YcuN99X/jdt8B6XJSsBHBy8i/tV390bwPLOcFh3L5CniMil9WJn2A==",
+      "type": "package",
+      "path": "btprogresshud/1.2.0.5",
+      "files": [
+        "btprogresshud.1.2.0.5.nupkg.sha512",
+        "btprogresshud.nuspec",
+        "lib/Xamarin.iOS10/BTProgressHUD.dll"
+      ]
+    },
     "MvvmCross/5.7.0": {
       "sha512": "+rllylrQafzyAFK5Akgvv981JC6yH7k7oD+BEzZgAaY0JHGsXbQfjy99+aAZpEELiDvmIZQi5JaRI1YG5oZwdw==",
       "type": "package",
@@ -401,6 +676,61 @@
         "lib/uap10.0/MvvmCross.Platform.pdb",
         "mvvmcross.platform.5.7.0.nupkg.sha512",
         "mvvmcross.platform.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "sha512": "pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "type": "package",
+      "path": "newtonsoft.json/11.0.1",
+      "files": [
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.11.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "Splat/2.0.0": {
+      "sha512": "nu/hT3AaKHJvMlCTrbR2EG1n6nzOejbJsvx/LWiy7kM4PK7R/GdrtP5KN8VcXfi1x+mbPA3Mqcbe992D7DppyA==",
+      "type": "package",
+      "path": "splat/2.0.0",
+      "files": [
+        "lib/MonoAndroid403/Splat.dll",
+        "lib/Net45/Splat.dll",
+        "lib/Portable-Win81+Wpa81/Splat.dll",
+        "lib/Xamarin.Mac20/Splat.dll",
+        "lib/Xamarin.iOS10/Splat.dll",
+        "lib/netstandard1.1/Splat.dll",
+        "splat.2.0.0.nupkg.sha512",
+        "splat.nuspec",
+        "src/AssemblyFinder.cs",
+        "src/Bitmaps.cs",
+        "src/Logging.cs",
+        "src/MemoizingMRUCache.cs",
+        "src/ModeDetector.cs",
+        "src/PlatformModeDetector.cs",
+        "src/PointExtensions.cs",
+        "src/RectangleExtensions.cs",
+        "src/ReflectionStubs.cs",
+        "src/ServiceLocation.cs",
+        "src/SizeExtensions.cs",
+        "src/TypeForwardedSystemDrawing.cs"
       ]
     },
     "SnackPlanning.Core/1.0.0": {

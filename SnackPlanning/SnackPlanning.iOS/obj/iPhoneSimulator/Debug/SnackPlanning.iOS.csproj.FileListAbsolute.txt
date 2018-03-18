@@ -1,6 +1,12 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.exe.config
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.exe
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.iOS.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Acr.Support.iOS.dll
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.Interface.dll
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.Interface.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.dll
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Acr.UserDialogs.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/BTProgressHUD.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Binding.iOS.dll
@@ -15,6 +21,8 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.iOS.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmCross.Platform.iOS.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Newtonsoft.Json.dll
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/Splat.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.Core.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/SnackPlanning.Core.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items

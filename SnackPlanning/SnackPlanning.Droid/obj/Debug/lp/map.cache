@@ -1,3 +1,7 @@
+Acr.Support.Android
+Acr.UserDialogs
+Acr.UserDialogs.Interface
+AndHUD
 MvvmCross.Binding
 MvvmCross.Binding.Droid
 MvvmCross.Core
@@ -9,7 +13,9 @@ MvvmCross.Droid.Support.V7.RecyclerView
 MvvmCross.Localization
 MvvmCross.Platform
 MvvmCross.Platform.Droid
+Newtonsoft.Json
 SnackPlanning.Core
+Splat
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
@@ -26,4 +32,8 @@ Xamarin.Android.Support.Transition
 Xamarin.Android.Support.v7.AppCompat
 Xamarin.Android.Support.v7.RecyclerView
 Xamarin.Android.Support.Vector.Drawable
+System.Diagnostics.Debug
+System.Threading.Tasks
+System.Text.Encoding
 System.Reflection.Extensions
+netstandard

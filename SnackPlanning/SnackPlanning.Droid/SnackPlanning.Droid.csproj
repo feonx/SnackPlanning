@@ -105,6 +105,9 @@
     <PackageReference Include="Xamarin.Build.Download">
       <Version>0.4.9</Version>
     </PackageReference>
+    <PackageReference Include="Acr.UserDialogs">
+      <Version>6.5.1</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="mscorlib" />

@@ -1,1 +1,0 @@
-values/MvxRecyclerViewBindingAttributes.xml;values/mvxrecyclerviewbindingattributes.xml
