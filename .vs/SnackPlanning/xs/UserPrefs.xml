@@ -1,11 +1,8 @@
 ﻿<Properties StartupConfiguration="{2F49E820-D4D5-4762-B585-9F3F05388365}|Default">
-  <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.FA69R0307363" AndroidDesignerPreferredTheme="MyTheme" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SnackPlanning/SnackPlanning.Core/WebAPI/Login.cs">
+  <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android" AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SnackPlanning/SnackPlanning.Droid/Resources/values/styles.xml">
     <Files>
-      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs" Line="36" Column="30" />
-      <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/Login.cs" Line="22" Column="39" />
-      <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/User.cs" Line="19" Column="58" />
-      <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/API/WebAPI.cs" Line="46" Column="2" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Resources/values/styles.xml" Line="29" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -11,7 +11,7 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/primaryDark">
+            android:background="@color/primary_dark">
             <ImageView
                 android:id="@+id/logo"
                 android:layout_width="200dp"
@@ -22,25 +22,32 @@
                 android:id="@+id/input_layout_username"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center">
+                android:layout_gravity="center"
+                android:textColorHint="@color/accent"
+                android:textColor="@color/accent">
                 <EditText
                     android:id="@+id/input_username"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/usernameLabel"
-                    local:MvxBind="Text Username" />
+                    local:MvxBind="Text Username"
+                    android:inputType="textEmailAddress"
+                    android:textColor="@color/accent" />
             </android.support.design.widget.TextInputLayout>
             <android.support.design.widget.TextInputLayout
                 android:id="@+id/input_layout_password"
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
-                android:layout_gravity="center">
+                android:layout_gravity="center"
+                local:passwordToggleEnabled="true">
                 <EditText
                     android:id="@+id/input_password"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/passwordLabel"
-                    local:MvxBind="Text Password" />
+                    local:MvxBind="Text Password"
+                    android:inputType="textPassword"
+                    android:textColor="@color/accent" />
             </android.support.design.widget.TextInputLayout>
             <Button
                 android:layout_width="300dp"
@@ -48,14 +55,9 @@
                 android:text="@string/loginButtonLabel"
                 android:theme="@style/Widget.AppCompat.Button"
                 android:layout_gravity="center"
-                local:MvxBind="Click LoginCommand" />
-            <Button
-                android:layout_width="300dp"
-                android:layout_height="wrap_content"
-                android:text="@string/registerButtonLabel"
-                android:theme="@style/Widget.AppCompat.Button"
-                android:layout_gravity="center"
-                local:MvxBind="Click RegisterCommand" />
+                local:MvxBind="Click LoginCommand"
+                android:layout_marginTop="35dp"
+                android:background="@color/secondary" />
         </LinearLayout>
     </FrameLayout>
 </RelativeLayout>

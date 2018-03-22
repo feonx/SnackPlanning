@@ -9,8 +9,6 @@ namespace SnackPlanning.Core.ViewModels
     public class LoginViewModel
         : MvxViewModel
     {
-        
-
         private string _username = string.Empty;
         public string Username
         {
@@ -39,11 +37,10 @@ namespace SnackPlanning.Core.ViewModels
             }
             else
             {
-                UserDialogs.Instance.HideLoading();
                 await UserDialogs.Instance.AlertAsync(AlertConfig.DefaultOkText, "De ingevoerde inloggegevens zijn incorrect.");
             }
 
-
+            UserDialogs.Instance.HideLoading();
         }
 
         public IMvxCommand RegisterCommand => new MvxCommand(Register);
