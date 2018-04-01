@@ -32,6 +32,8 @@
 /Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Binding.iOS.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/bin/Debug/netstandard1.4/SnackPlanning.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mono/Xamarin.iOS/System.Net.Http.dll
+/Users/mdebree/.nuget/packages/mvvmvalidation/3.1.0/lib/netstandard1.0/MvvmValidation.dll
+/Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mono/Xamarin.iOS/Facades/System.Resources.ResourceManager.dll
 /Users/mdebree/.nuget/packages/acr.userdialogs/6.5.1/lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll
 /Users/mdebree/.nuget/packages/splat/2.0.0/lib/Xamarin.iOS10/Splat.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/11.8.0.20/lib/mono/Xamarin.iOS/System.Runtime.Serialization.dll

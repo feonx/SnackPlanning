@@ -25,6 +25,7 @@
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.binding/5.7.0/lib/Xamarin.iOS10/MvvmCross.Localization.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	-r=/Users/mdebree/.nuget/packages/mvvmvalidation/3.1.0/lib/netstandard1.0/MvvmValidation.dll \
 	-r=/Users/mdebree/.nuget/packages/newtonsoft.json/11.0.1/lib/netstandard2.0/Newtonsoft.Json.dll \
 	-r=/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/bin/Debug/netstandard1.4/SnackPlanning.Core.dll \
 	-r=/Users/mdebree/.nuget/packages/splat/2.0.0/lib/Xamarin.iOS10/Splat.dll \
@@ -180,6 +181,7 @@
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.core/5.7.0/lib/Xamarin.iOS10/MvvmCross.iOS.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.dll \
 	-r=/Users/mdebree/.nuget/packages/mvvmcross.platform/5.7.0/lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll \
+	-r=/Users/mdebree/.nuget/packages/mvvmvalidation/3.1.0/lib/netstandard1.0/MvvmValidation.dll \
 	-r=/Users/mdebree/.nuget/packages/newtonsoft.json/11.0.1/lib/netstandard2.0/Newtonsoft.Json.dll \
 	-r=/Users/mdebree/.nuget/packages/splat/2.0.0/lib/Xamarin.iOS10/Splat.dll \
 	-r=/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/bin/Debug/netstandard1.4/SnackPlanning.Core.dll \

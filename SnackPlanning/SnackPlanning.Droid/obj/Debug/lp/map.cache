@@ -37,3 +37,8 @@ System.Threading.Tasks
 System.Text.Encoding
 System.Reflection.Extensions
 netstandard
+MvvmValidation
+System.ObjectModel
+System.Collections
+System.Threading
+System.Resources.ResourceManager

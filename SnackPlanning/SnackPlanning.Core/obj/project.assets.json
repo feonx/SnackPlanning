@@ -114,6 +114,15 @@
           "lib/portable-net45+win+wpa81+wp80/MvvmCross.Platform.dll": {}
         }
       },
+      "MvvmValidation/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        }
+      },
       "NETStandard.Library/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -1515,6 +1524,18 @@
         "lib/uap10.0/MvvmCross.Platform.pdb",
         "mvvmcross.platform.5.7.0.nupkg.sha512",
         "mvvmcross.platform.nuspec"
+      ]
+    },
+    "MvvmValidation/3.1.0": {
+      "sha512": "flY06y2LHCfbrYqOWSk1hggXoQnHmkYDNjD4IVWqaP2vHw3WFUssKBtJuaDYGBkrSCb+gLfzjF/bfY05usUk0A==",
+      "type": "package",
+      "path": "mvvmvalidation/3.1.0",
+      "files": [
+        "lib/netstandard1.0/MvvmValidation.deps.json",
+        "lib/netstandard1.0/MvvmValidation.dll",
+        "lib/netstandard1.0/MvvmValidation.xml",
+        "mvvmvalidation.3.1.0.nupkg.sha512",
+        "mvvmvalidation.nuspec"
       ]
     },
     "NETStandard.Library/1.6.1": {
@@ -4802,6 +4823,7 @@
       "MvvmCross.Binding >= 5.7.0",
       "MvvmCross.Core >= 5.7.0",
       "MvvmCross.Platform >= 5.7.0",
+      "MvvmValidation >= 3.1.0",
       "NETStandard.Library >= 1.6.1",
       "Newtonsoft.Json >= 11.0.1"
     ]
@@ -4874,6 +4896,10 @@
           "Acr.UserDialogs": {
             "target": "Package",
             "version": "6.5.1"
+          },
+          "MvvmValidation": {
+            "target": "Package",
+            "version": "3.1.0"
           }
         },
         "imports": [

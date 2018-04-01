@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v1.4/",
-    "signature": "fd985d2aacc356ab7809e97d74a252ad0c9fa3f6"
+    "signature": "963c2be87280556e985fab6cde90b41ee6f7b5b5"
   },
   "compilationOptions": {},
   "targets": {
@@ -14,6 +14,7 @@
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
           "MvvmCross.Platform": "5.7.0",
+          "MvvmValidation": "3.1.0",
           "NETStandard.Library": "1.6.1",
           "Newtonsoft.Json": "11.0.1"
         },
@@ -88,6 +89,11 @@
       "MvvmCross.Platform/5.7.0": {
         "runtime": {
           "lib/portable-net45+win+wpa81+wp80/MvvmCross.Platform.dll": {}
+        }
+      },
+      "MvvmValidation/3.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
         }
       },
       "NETStandard.Library/1.6.1": {
@@ -839,6 +845,13 @@
       "sha512": "sha512-0J0Rzk3TisxYswq2aDEfNfdfl5X92399TmM8X9L828e36rqXK0z+OFTmwn7ViMqC9d7Cqroz4gVbkxThHfHEng==",
       "path": "mvvmcross.platform/5.7.0",
       "hashPath": "mvvmcross.platform.5.7.0.nupkg.sha512"
+    },
+    "MvvmValidation/3.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-flY06y2LHCfbrYqOWSk1hggXoQnHmkYDNjD4IVWqaP2vHw3WFUssKBtJuaDYGBkrSCb+gLfzjF/bfY05usUk0A==",
+      "path": "mvvmvalidation/3.1.0",
+      "hashPath": "mvvmvalidation.3.1.0.nupkg.sha512"
     },
     "NETStandard.Library/1.6.1": {
       "type": "package",

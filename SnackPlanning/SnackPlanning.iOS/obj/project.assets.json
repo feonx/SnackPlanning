@@ -84,6 +84,15 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "MvvmValidation/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        }
+      },
       "Newtonsoft.Json/11.0.1": {
         "type": "package",
         "compile": {
@@ -111,6 +120,7 @@
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
           "MvvmCross.Platform": "5.7.0",
+          "MvvmValidation": "3.1.0",
           "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
@@ -204,6 +214,15 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "MvvmValidation/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        }
+      },
       "Newtonsoft.Json/11.0.1": {
         "type": "package",
         "compile": {
@@ -231,6 +250,7 @@
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
           "MvvmCross.Platform": "5.7.0",
+          "MvvmValidation": "3.1.0",
           "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
@@ -324,6 +344,15 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "MvvmValidation/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        }
+      },
       "Newtonsoft.Json/11.0.1": {
         "type": "package",
         "compile": {
@@ -351,6 +380,7 @@
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
           "MvvmCross.Platform": "5.7.0",
+          "MvvmValidation": "3.1.0",
           "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
@@ -444,6 +474,15 @@
           "lib/Xamarin.iOS10/MvvmCross.Platform.iOS.dll": {}
         }
       },
+      "MvvmValidation/3.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/MvvmValidation.dll": {}
+        }
+      },
       "Newtonsoft.Json/11.0.1": {
         "type": "package",
         "compile": {
@@ -471,6 +510,7 @@
           "MvvmCross.Binding": "5.7.0",
           "MvvmCross.Core": "5.7.0",
           "MvvmCross.Platform": "5.7.0",
+          "MvvmValidation": "3.1.0",
           "Newtonsoft.Json": "11.0.1"
         },
         "compile": {
@@ -676,6 +716,18 @@
         "lib/uap10.0/MvvmCross.Platform.pdb",
         "mvvmcross.platform.5.7.0.nupkg.sha512",
         "mvvmcross.platform.nuspec"
+      ]
+    },
+    "MvvmValidation/3.1.0": {
+      "sha512": "flY06y2LHCfbrYqOWSk1hggXoQnHmkYDNjD4IVWqaP2vHw3WFUssKBtJuaDYGBkrSCb+gLfzjF/bfY05usUk0A==",
+      "type": "package",
+      "path": "mvvmvalidation/3.1.0",
+      "files": [
+        "lib/netstandard1.0/MvvmValidation.deps.json",
+        "lib/netstandard1.0/MvvmValidation.dll",
+        "lib/netstandard1.0/MvvmValidation.xml",
+        "mvvmvalidation.3.1.0.nupkg.sha512",
+        "mvvmvalidation.nuspec"
       ]
     },
     "Newtonsoft.Json/11.0.1": {

@@ -14,11 +14,13 @@
     <PackageReference Include="MvvmCross.Platform" Version="5.7.0" />
     <PackageReference Include="Newtonsoft.Json" Version="11.0.1" />
     <PackageReference Include="Acr.UserDialogs" Version="6.5.1" />
+    <PackageReference Include="MvvmValidation" Version="3.1.0" />
   </ItemGroup>
     
   <ItemGroup>
     <Folder Include="WebAPI\" />
     <Folder Include="WebAPI\Shared\" />
     <Folder Include="WebAPI\API\" />
+    <Folder Include="Common\" />
   </ItemGroup>
 </Project>

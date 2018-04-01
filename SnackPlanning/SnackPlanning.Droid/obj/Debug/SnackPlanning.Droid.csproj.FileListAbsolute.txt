@@ -28,6 +28,7 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/drawable/logo.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/R.cs.flag
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/uploadflags.txt
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.csprojResolveAssemblyReference.cache
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Acr.UserDialogs.Interface.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Mono.Android.pdb
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Mono.Android.Export.pdb

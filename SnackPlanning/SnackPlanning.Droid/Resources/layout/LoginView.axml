@@ -29,7 +29,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/usernameLabel"
-                    local:MvxBind="Text Username"
+                    local:MvxBind="Text Username; Error ValidationErrors['Username']"
                     android:inputType="textEmailAddress"
                     android:backgroundTint="@color/colorPrimaryDark"
                     android:textColor="@android:color/black" />
@@ -45,7 +45,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/passwordLabel"
-                    local:MvxBind="Text Password"
+                    local:MvxBind="Text Password; Error ValidationErrors['Password']"
                     android:inputType="textPassword"
                     android:backgroundTint="@color/colorPrimaryDark"
                     android:textColor="@android:color/black" />

@@ -122,6 +122,7 @@ class MonoPackageManager_Resources {
 		"MvvmCross.Localization.dll",
 		"MvvmCross.Platform.dll",
 		"MvvmCross.Platform.Droid.dll",
+		"MvvmValidation.dll",
 		"Newtonsoft.Json.dll",
 		"SnackPlanning.Core.dll",
 		"Splat.dll",

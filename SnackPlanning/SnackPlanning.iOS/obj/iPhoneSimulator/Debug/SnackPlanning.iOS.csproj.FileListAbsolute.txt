@@ -37,3 +37,4 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.csproj.CoreCompileInputs.cache
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.exe
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/obj/iPhoneSimulator/Debug/SnackPlanning.iOS.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.iOS/bin/iPhoneSimulator/Debug/MvvmValidation.dll

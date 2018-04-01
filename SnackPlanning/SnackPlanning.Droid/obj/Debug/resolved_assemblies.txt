@@ -18,6 +18,7 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/MvvmCross.Localization.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/MvvmCross.Platform.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/MvvmCross.Platform.Droid.dll
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/MvvmValidation.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/SnackPlanning.Core.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/Splat.dll
@@ -62,6 +63,7 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/System.Dynamic.Runtime.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/Microsoft.CSharp.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/System.IO.dll
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/System.Resources.ResourceManager.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/netstandard.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/System.Data.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/android/assets/System.Numerics.dll
