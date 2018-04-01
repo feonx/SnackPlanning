@@ -23,5 +23,17 @@ namespace SnackPlanning.Core.WebAPI
 
             return credentialStatus.Status == StatusEnum.RecordExists;
         }
+
+        public async Task<bool> Create(string password)
+        {
+            var credentials = new UserCredentials
+            {
+                Username = _username,
+                Password = password
+            };
+
+            var recordStatus = await WebAPI.Send<StatusResponse>("api/register", credentials);
+            return recordStatus.Status == StatusEnum.RecordCreated;
+        }
     }
 }

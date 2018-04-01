@@ -1,15 +1,12 @@
 using System.Net.Http.Headers;
 using System.Text;
-using Acr.UserDialogs;
-using MvvmCross.Core.ViewModels;
-using MvvmValidation;
-using SnackPlanning.Core.Common;
 
+using MvvmCross.Core.ViewModels;
 
 namespace SnackPlanning.Core.ViewModels
 {
     public class LoginViewModel
-        : MvxViewModel
+        : BaseViewModel
     {
         private string _username = string.Empty;
         public string Username
@@ -29,7 +26,13 @@ namespace SnackPlanning.Core.ViewModels
         public IMvxCommand LoginCommand => new MvxCommand(Login);
         private async void Login()
         {
-            if(Validate())
+            var isValid = Validate(new System.Collections.Generic.Dictionary<System.Linq.Expressions.Expression<System.Func<object>>, string>
+            {
+                { () => Username, "Gebruikersnaam is verplicht." },
+                { () => Password, "Wachtwoord is verplicht." },
+            });
+
+            if(isValid)
             {
                 UserDialogs.Instance.ShowLoading("Bezig met inloggen...");
 
@@ -37,11 +40,11 @@ namespace SnackPlanning.Core.ViewModels
 
                 if (await login.CheckCredentials())
                 {
-                    await UserDialogs.Instance.AlertAsync(AlertConfig.DefaultOkText, "De ingevoerde inloggegevens zijn correct.");
+                    ShowMessage("De ingevoerde inloggegevens zijn correct.");
                 }
                 else
                 {
-                    await UserDialogs.Instance.AlertAsync(AlertConfig.DefaultOkText, "De ingevoerde inloggegevens zijn incorrect.");
+                    ShowMessage("De ingevoerde inloggegevens zijn incorrect.");
                 }
 
                 UserDialogs.Instance.HideLoading();
@@ -54,24 +57,6 @@ namespace SnackPlanning.Core.ViewModels
 
         }
 
-        private ObservableDictionary<string, string> _validationErrors;
-        public ObservableDictionary<string, string> ValidationErrors
-        {
-            get => _validationErrors;
-            set { _validationErrors = value; RaisePropertyChanged(() => ValidationErrors); }
-        }
 
-        private bool Validate()
-        {
-            var validationHelper = new ValidationHelper();
-            validationHelper.AddRequiredRule(() => Username, "Gebruikersnaam is verplicht.");
-            validationHelper.AddRequiredRule(() => Password, "Wachtwoord is verplicht.");
-
-            var validationResult = validationHelper.ValidateAll();
-
-            ValidationErrors = validationResult.AsObservableDictionary();
-
-            return validationResult.IsValid;
-        }
     }
 }
