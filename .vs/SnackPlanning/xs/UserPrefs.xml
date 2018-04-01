@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.FA69R0307363" AndroidDesignerPreferredTheme="AppTheme" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs">
     <Files>
-      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs" Line="61" Column="6" />
+      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs" Line="59" Column="9" />
       <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/RegisterViewModel.cs" Line="44" Column="17" />
       <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/User.cs" Line="37" Column="10" />
       <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/Login.cs" Line="22" Column="1" />

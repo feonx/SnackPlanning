@@ -41,5 +41,15 @@ namespace SnackPlanning.Core.ViewModels
         {
             await UserDialogs.Instance.AlertAsync(AlertConfig.DefaultOkText, "De ingevoerde inloggegevens zijn correct.");
         }
+
+        public void ShowLoading(string message)
+        {
+            UserDialogs.Instance.ShowLoading(message);
+        }
+
+        public void HideLoading()
+        {
+            UserDialogs.Instance.HideLoading();   
+        }
     }
 }

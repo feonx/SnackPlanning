@@ -34,7 +34,7 @@ namespace SnackPlanning.Core.ViewModels
 
             if(isValid)
             {
-                UserDialogs.Instance.ShowLoading("Bezig met inloggen...");
+                ShowLoading("Bezig met inloggen...");
 
                 var login = new WebAPI.Login(Username, Password);
 
@@ -47,7 +47,7 @@ namespace SnackPlanning.Core.ViewModels
                     ShowMessage("De ingevoerde inloggegevens zijn incorrect.");
                 }
 
-                UserDialogs.Instance.HideLoading();
+                HideLoading();
             }
         }
 
