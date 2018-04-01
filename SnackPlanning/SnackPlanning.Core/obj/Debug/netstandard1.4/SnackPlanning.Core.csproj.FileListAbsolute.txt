@@ -6,3 +6,4 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/obj/Debug/netstandard1.4/SnackPlanning.Core.AssemblyInfo.cs
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/obj/Debug/netstandard1.4/SnackPlanning.Core.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/obj/Debug/netstandard1.4/SnackPlanning.Core.pdb
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/obj/Debug/netstandard1.4/SnackPlanning.Core.csprojResolveAssemblyReference.cache

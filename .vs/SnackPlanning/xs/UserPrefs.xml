@@ -1,8 +1,10 @@
 ﻿<Properties StartupConfiguration="{2F49E820-D4D5-4762-B585-9F3F05388365}|Default">
-  <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android" AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SnackPlanning/SnackPlanning.Droid/Resources/values/styles.xml">
+  <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.FA69R0307363" AndroidDesignerPreferredTheme="AppTheme" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="SnackPlanning/SnackPlanning.Droid/Resources/values/styles.xml" Line="29" Column="13" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Resources/values/styles.xml" Line="36" Column="1" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Resources/values/colors.xml" Line="8" Column="43" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Views/BaseView.cs" Line="14" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

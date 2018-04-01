@@ -4,7 +4,7 @@
   <uses-sdk android:minSdkVersion="15" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="@string/ApplicationName" android:icon="@mipmap/ic_launcher" android:theme="@style/MyTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+  <application android:label="@string/ApplicationName" android:icon="@mipmap/ic_launcher" android:theme="@style/AppTheme" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
     <activity android:icon="@mipmap/ic_launcher" android:label="SnackPlanning" android:noHistory="true" android:screenOrientation="portrait" android:theme="@style/Theme.Splash" android:name="md52f336b0f220d4434b3bc5a9b855e8749.SplashScreen">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

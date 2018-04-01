@@ -446,6 +446,7 @@
         "acr.support.2.1.0.nupkg.sha512",
         "acr.support.nuspec",
         "lib/MonoAndroid10/Acr.Support.Android.dll",
+        "lib/MonoAndroid10/Acr.Support.Android.dll.mdb",
         "lib/MonoAndroid10/Acr.Support.Android.pdb",
         "lib/Xamarin.iOS10/Acr.Support.iOS.dll",
         "lib/Xamarin.tvOS10/Acr.Support.tvOS.dll",
@@ -463,6 +464,7 @@
         "lib/MonoAndroid10/Acr.UserDialogs.Interface.dll",
         "lib/MonoAndroid10/Acr.UserDialogs.Interface.pdb",
         "lib/MonoAndroid10/Acr.UserDialogs.dll",
+        "lib/MonoAndroid10/Acr.UserDialogs.dll.mdb",
         "lib/MonoAndroid10/Acr.UserDialogs.pdb",
         "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.dll",
         "lib/Xamarin.iOS10/Acr.UserDialogs.Interface.pdb",
@@ -512,10 +514,13 @@
       "path": "mvvmcross.binding/5.7.0",
       "files": [
         "lib/MonoAndroid/MvvmCross.Binding.Droid.dll",
+        "lib/MonoAndroid/MvvmCross.Binding.Droid.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Binding.Droid.pdb",
         "lib/MonoAndroid/MvvmCross.Binding.dll",
+        "lib/MonoAndroid/MvvmCross.Binding.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Binding.pdb",
         "lib/MonoAndroid/MvvmCross.Localization.dll",
+        "lib/MonoAndroid/MvvmCross.Localization.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Localization.pdb",
         "lib/Xamarin.Mac20/MvvmCross.Binding.Mac.dll",
         "lib/Xamarin.Mac20/MvvmCross.Binding.Mac.pdb",
@@ -565,8 +570,10 @@
       "path": "mvvmcross.core/5.7.0",
       "files": [
         "lib/MonoAndroid/MvvmCross.Core.dll",
+        "lib/MonoAndroid/MvvmCross.Core.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Core.pdb",
         "lib/MonoAndroid/MvvmCross.Droid.dll",
+        "lib/MonoAndroid/MvvmCross.Droid.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Droid.pdb",
         "lib/Xamarin.Mac20/MvvmCross.Core.dll",
         "lib/Xamarin.Mac20/MvvmCross.Core.pdb",
@@ -602,6 +609,7 @@
       "path": "mvvmcross.droid.support.core.ui/5.7.0",
       "files": [
         "lib/MonoAndroid70/MvvmCross.Droid.Support.Core.UI.dll",
+        "lib/MonoAndroid70/MvvmCross.Droid.Support.Core.UI.dll.mdb",
         "lib/MonoAndroid70/MvvmCross.Droid.Support.Core.UI.pdb",
         "mvvmcross.droid.support.core.ui.5.7.0.nupkg.sha512",
         "mvvmcross.droid.support.core.ui.nuspec"
@@ -613,6 +621,7 @@
       "path": "mvvmcross.droid.support.fragment/5.7.0",
       "files": [
         "lib/MonoAndroid70/MvvmCross.Droid.Support.Fragment.dll",
+        "lib/MonoAndroid70/MvvmCross.Droid.Support.Fragment.dll.mdb",
         "lib/MonoAndroid70/MvvmCross.Droid.Support.Fragment.pdb",
         "mvvmcross.droid.support.fragment.5.7.0.nupkg.sha512",
         "mvvmcross.droid.support.fragment.nuspec"
@@ -625,6 +634,7 @@
       "files": [
         "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.AppCompat.dll",
         "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.AppCompat.dll.config",
+        "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.AppCompat.dll.mdb",
         "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.AppCompat.pdb",
         "mvvmcross.droid.support.v7.appcompat.5.7.0.nupkg.sha512",
         "mvvmcross.droid.support.v7.appcompat.nuspec"
@@ -637,6 +647,7 @@
       "files": [
         "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.RecyclerView.dll",
         "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.RecyclerView.dll.config",
+        "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb",
         "lib/MonoAndroid70/MvvmCross.Droid.Support.V7.RecyclerView.pdb",
         "mvvmcross.droid.support.v7.recyclerview.5.7.0.nupkg.sha512",
         "mvvmcross.droid.support.v7.recyclerview.nuspec"
@@ -648,8 +659,10 @@
       "path": "mvvmcross.platform/5.7.0",
       "files": [
         "lib/MonoAndroid/MvvmCross.Platform.Droid.dll",
+        "lib/MonoAndroid/MvvmCross.Platform.Droid.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Platform.Droid.pdb",
         "lib/MonoAndroid/MvvmCross.Platform.dll",
+        "lib/MonoAndroid/MvvmCross.Platform.dll.mdb",
         "lib/MonoAndroid/MvvmCross.Platform.pdb",
         "lib/Xamarin.Mac20/MvvmCross.Platform.Mac.dll",
         "lib/Xamarin.Mac20/MvvmCross.Platform.Mac.pdb",
@@ -1002,12 +1015,6 @@
         }
       }
     },
-    "dependencies": {
-      "Acr.UserDialogs": {
-        "target": "Package",
-        "version": "[6.5.1, )"
-      }
-    },
     "frameworks": {
       "monoandroid81": {
         "dependencies": {
@@ -1094,6 +1101,10 @@
           "Xamarin.Build.Download": {
             "target": "Package",
             "version": "0.4.9"
+          },
+          "Acr.UserDialogs": {
+            "target": "Package",
+            "version": "6.5.1"
           }
         }
       }

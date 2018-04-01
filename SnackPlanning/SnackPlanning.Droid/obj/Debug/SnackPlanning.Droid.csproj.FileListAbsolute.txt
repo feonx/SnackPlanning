@@ -4,7 +4,6 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/com.companyname.SnackPlanning-Signed.apk
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/SnackPlanning.Core.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/SnackPlanning.Core.pdb
-/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.csprojResolveAssemblyReference.cache
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.csproj.CoreCompileInputs.cache
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.dll
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/SnackPlanning.Droid.pdb
@@ -25,8 +24,8 @@
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/mipmap-xhdpi/ic_launcher.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/mipmap-xxhdpi/ic_launcher.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/mipmap-xxxhdpi/ic_launcher.png
-/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/drawable/logo.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/layout/loginview.xml
+/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/res/drawable/logo.png
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/R.cs.flag
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/obj/Debug/uploadflags.txt
 /Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Droid/bin/Debug/Acr.UserDialogs.Interface.pdb

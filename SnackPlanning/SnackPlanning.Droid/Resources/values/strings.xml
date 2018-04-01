@@ -5,5 +5,5 @@
     <string name="usernameLabel">Gebruikersnaam:</string>
     <string name="passwordLabel">Wachtwoord:</string>
     <string name="loginButtonLabel">Inloggen</string>
-    <string name="registerButtonLabel">Registreren</string>
+    <string name="registerButtonLabel">Nog geen account?</string>
 </resources>

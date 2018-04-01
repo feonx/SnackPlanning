@@ -1,13 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--Get colors from: http://www.materialpalette.com/-->
-  <color name="primary">#F44336</color>
-  <color name="primary_dark">#D32F2F</color>
-  <color name="primary_light">#FFCDD2</color>
-  <color name="accent">#FFEB3B</color>
-  <color name="primary_text">#212121</color>
-  <color name="secondary_text">#757575</color>
-  <color name="icons">#FFFFFF</color>
-  <color name="divider">#BDBDBD</color>
-  <color name="secondary">#FFEBEE</color>
+
+    <color name="colorBackground">#e8e8e8</color>
+    
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimaryLight">#FFAAAA</color>
+    <color name="colorAccent">#F44336</color>
+
 </resources>
