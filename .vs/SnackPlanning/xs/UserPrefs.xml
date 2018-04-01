@@ -1,19 +1,27 @@
 ﻿<Properties StartupConfiguration="{2F49E820-D4D5-4762-B585-9F3F05388365}|Default">
   <MonoDevelop.Ide.ItemProperties.SnackPlanning.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.FA69R0307363" AndroidDesignerPreferredTheme="AppTheme" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SnackPlanning/SnackPlanning.Core/Helpers/ValidationHelper.cs">
     <Files>
-      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs" Line="59" Column="9" />
-      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/RegisterViewModel.cs" Line="44" Column="17" />
-      <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/User.cs" Line="37" Column="10" />
-      <File FileName="SnackPlanning/SnackPlanning.Core/WebAPI/Login.cs" Line="22" Column="1" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Resources/values/strings.xml" Line="11" Column="13" />
+      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/LoginViewModel.cs" Line="52" Column="16" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Views/RegisterView.cs" Line="17" Column="1" />
+      <File FileName="SnackPlanning/SnackPlanning.Droid/Views/LoginView.cs" Line="17" Column="1" />
+      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/RegisterViewModel.cs" Line="83" Column="14" />
+      <File FileName="SnackPlanning/SnackPlanning.Core/ViewModels/BaseViewModel.cs" Line="16" Column="1" />
+      <File FileName="SnackPlanning/SnackPlanning.Core/Helpers/ValidationHelper.cs" Line="51" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/WebAPI/WebAPI.cs" relfile="SnackPlanning/SnackPlanning.Core/WebAPI/WebAPI.cs" line="42" column="37" />
+      <Breakpoint file="/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/Helpers/ValidationHelper.cs" relfile="SnackPlanning/SnackPlanning.Core/Helpers/ValidationHelper.cs" line="41" column="1" />
+      <Breakpoint file="/Users/mdebree/Projects/SnackPlanning/SnackPlanning/SnackPlanning.Core/Common/ValidationResultExtention.cs" relfile="SnackPlanning/SnackPlanning.Core/Common/ValidationResultExtention.cs" line="10" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <DisabledProjects>
+    <String>SnackPlanning/SnackPlanning.iOS/SnackPlanning.iOS.csproj</String>
+  </DisabledProjects>
 </Properties>

@@ -2,6 +2,9 @@
 using MvvmCross.Core.ViewModels;
 using MvvmValidation;
 using SnackPlanning.Core.Common;
+using System.Text.RegularExpressions;
+using System.Collections.Generic;
+using System.Linq.Expressions;
 
 namespace SnackPlanning.Core.ViewModels
 {
@@ -32,17 +35,53 @@ namespace SnackPlanning.Core.ViewModels
         public IMvxCommand RegisterCommand => new MvxCommand(Register);
         private async void Register()
         {
-            var isValid = Validate(new System.Collections.Generic.Dictionary<System.Linq.Expressions.Expression<System.Func<object>>, string>
+            var isValid = ValidationHelper.Validate(new Dictionary<Helpers.ValidationProperty, string>
             {
-                { () => Username, "Gebruikersnaam is verplicht." },
-                { () => Password, "Wachtwoord is verplicht." },
-                { () => Repassword, "Wachtwoord is verplicht." },
+                { 
+                    new Helpers.ValidationProperty
+                    {
+                        Name = nameof(Username),
+                        Value = Username
+                    },
+
+                    "Gebruikersnaam is verplicht." 
+                },
+                {
+                    new Helpers.ValidationProperty
+                    {
+                        Name = nameof(Password),
+                        Value = Password
+                    }, 
+
+                    "Wachtwoord is verplicht."
+                },
+                {
+                    new Helpers.ValidationProperty
+                    {
+                        Name = nameof(Repassword),
+                        Value = Repassword
+                    }, 
+
+                    "Wachtwoord is verplicht."
+                }
             });
 
-            if(isValid)
+            if (!isValid)
             {
-                
+                return;
             }
+             
+            var isValidEmail = ValidationHelper.ValidateEmail(new Helpers.ValidationProperty
+            {
+                Name = nameof(Username),
+                Value = Username
+            }, "Het ingevoerde e-mail adres is niet juist.");
+
+            if(!isValid)
+            {
+                return;
+            }
+
         }
 
     }

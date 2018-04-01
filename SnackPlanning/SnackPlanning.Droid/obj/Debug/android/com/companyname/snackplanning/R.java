@@ -3220,6 +3220,7 @@ containing a value of this type.
         public static final int input_layout_password=0x7f0900a3;
         public static final int input_layout_username=0x7f0900a1;
         public static final int input_password=0x7f0900a4;
+        public static final int input_repassword=0x7f0900b8;
         public static final int input_username=0x7f0900a2;
         public static final int italic=0x7f09005b;
         public static final int item_touch_helper_previous_elevation=0x7f090000;
@@ -3233,9 +3234,9 @@ containing a value of this type.
         public static final int loadingProgressBar=0x7f09009b;
         public static final int loadingProgressWheel=0x7f09009e;
         public static final int logo=0x7f0900a0;
-        public static final int masked=0x7f0900bb;
+        public static final int masked=0x7f0900bc;
         public static final int media_actions=0x7f0900ab;
-        public static final int message=0x7f0900b9;
+        public static final int message=0x7f0900ba;
         public static final int middle=0x7f090033;
         public static final int mini=0x7f090055;
         public static final int multiply=0x7f09002a;
@@ -3307,7 +3308,7 @@ containing a value of this type.
         public static final int title=0x7f09001c;
         public static final int titleDividerNoCustom=0x7f090073;
         public static final int title_template=0x7f090071;
-        public static final int toolbar=0x7f0900b8;
+        public static final int toolbar=0x7f0900b9;
         public static final int top=0x7f090040;
         public static final int topPanel=0x7f090070;
         public static final int touch_outside=0x7f090091;
@@ -3320,7 +3321,7 @@ containing a value of this type.
         public static final int up=0x7f090009;
         public static final int useLogo=0x7f090028;
         public static final int view_offset_helper=0x7f090016;
-        public static final int visible=0x7f0900ba;
+        public static final int visible=0x7f0900bb;
         public static final int withText=0x7f09003e;
         public static final int wrap_content=0x7f090030;
     }
@@ -3397,13 +3398,14 @@ containing a value of this type.
         public static final int notification_template_media_custom=0x7f040038;
         public static final int notification_template_part_chronometer=0x7f040039;
         public static final int notification_template_part_time=0x7f04003a;
-        public static final int select_dialog_item_material=0x7f04003b;
-        public static final int select_dialog_multichoice_material=0x7f04003c;
-        public static final int select_dialog_singlechoice_material=0x7f04003d;
-        public static final int splashscreen=0x7f04003e;
-        public static final int support_simple_spinner_dropdown_item=0x7f04003f;
-        public static final int toolbar=0x7f040040;
-        public static final int tooltip=0x7f040041;
+        public static final int registerview=0x7f04003b;
+        public static final int select_dialog_item_material=0x7f04003c;
+        public static final int select_dialog_multichoice_material=0x7f04003d;
+        public static final int select_dialog_singlechoice_material=0x7f04003e;
+        public static final int splashscreen=0x7f04003f;
+        public static final int support_simple_spinner_dropdown_item=0x7f040040;
+        public static final int toolbar=0x7f040041;
+        public static final int tooltip=0x7f040042;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
@@ -3443,15 +3445,17 @@ containing a value of this type.
         public static final int appbar_scrolling_view_behavior=0x7f0a001e;
         public static final int bottom_sheet_behavior=0x7f0a001f;
         public static final int character_counter_pattern=0x7f0a0020;
+        public static final int createUserButtonLabel=0x7f0a002f;
         public static final int library_name=0x7f0a0027;
-        public static final int loginButtonLabel=0x7f0a002c;
+        public static final int loginButtonLabel=0x7f0a002d;
         public static final int passwordLabel=0x7f0a002b;
         public static final int password_toggle_content_description=0x7f0a0021;
         public static final int path_password_eye=0x7f0a0022;
         public static final int path_password_eye_mask_strike_through=0x7f0a0023;
         public static final int path_password_eye_mask_visible=0x7f0a0024;
         public static final int path_password_strike_through=0x7f0a0025;
-        public static final int registerButtonLabel=0x7f0a002d;
+        public static final int registerButtonLabel=0x7f0a002e;
+        public static final int repasswordLabel=0x7f0a002c;
         public static final int search_menu_title=0x7f0a0011;
         public static final int status_bar_notification_info_overflow=0x7f0a0026;
         public static final int usernameLabel=0x7f0a002a;

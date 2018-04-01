@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:local="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/logo"
+                android:layout_gravity="center"
+                android:layout_marginTop="100dp"
+                android:layout_marginBottom="50dp" />
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_username"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+                <EditText
+                    android:id="@+id/input_username"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/usernameLabel"
+                    local:MvxBind="Text Username; Error ValidationErrors['Username']"
+                    android:inputType="textEmailAddress"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:textColor="@android:color/black" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_password"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                local:passwordToggleEnabled="true">
+                <EditText
+                    android:id="@+id/input_password"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/passwordLabel"
+                    local:MvxBind="Text Password; Error ValidationErrors['Password']"
+                    android:inputType="textPassword"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:textColor="@android:color/black" />
+            </android.support.design.widget.TextInputLayout>
+            <android.support.design.widget.TextInputLayout
+                android:id="@+id/input_layout_password"
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                local:passwordToggleEnabled="true">
+                <EditText
+                    android:id="@+id/input_repassword"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/repasswordLabel"
+                    local:MvxBind="Text Repassword; Error ValidationErrors['Repassword']"
+                    android:inputType="textPassword"
+                    android:backgroundTint="@color/colorPrimaryDark"
+                    android:textColor="@android:color/black" />
+            </android.support.design.widget.TextInputLayout>
+            <Button
+                android:layout_width="300dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:text="@string/createUserButtonLabel"
+                android:layout_gravity="center"
+                local:MvxBind="Click RegisterCommand"
+                android:backgroundTint="@color/colorPrimary"
+                android:textColor="@android:color/white" />
+        </LinearLayout>
+    </FrameLayout>
+</RelativeLayout>

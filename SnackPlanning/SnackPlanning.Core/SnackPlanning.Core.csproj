@@ -22,5 +22,6 @@
     <Folder Include="WebAPI\Shared\" />
     <Folder Include="WebAPI\API\" />
     <Folder Include="Common\" />
+    <Folder Include="Helpers\" />
   </ItemGroup>
 </Project>

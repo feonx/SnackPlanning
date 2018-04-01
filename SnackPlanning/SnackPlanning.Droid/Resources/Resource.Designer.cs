@@ -4850,6 +4850,9 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0900a4
 			public const int input_password = 2131296420;
 			
+			// aapt resource value: 0x7f0900b8
+			public const int input_repassword = 2131296440;
+			
 			// aapt resource value: 0x7f0900a2
 			public const int input_username = 2131296418;
 			
@@ -4889,14 +4892,14 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0900a0
 			public const int logo = 2131296416;
 			
-			// aapt resource value: 0x7f0900bb
-			public const int masked = 2131296443;
+			// aapt resource value: 0x7f0900bc
+			public const int masked = 2131296444;
 			
 			// aapt resource value: 0x7f0900ab
 			public const int media_actions = 2131296427;
 			
-			// aapt resource value: 0x7f0900b9
-			public const int message = 2131296441;
+			// aapt resource value: 0x7f0900ba
+			public const int message = 2131296442;
 			
 			// aapt resource value: 0x7f090033
 			public const int middle = 2131296307;
@@ -5111,8 +5114,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090071
 			public const int title_template = 2131296369;
 			
-			// aapt resource value: 0x7f0900b8
-			public const int toolbar = 2131296440;
+			// aapt resource value: 0x7f0900b9
+			public const int toolbar = 2131296441;
 			
 			// aapt resource value: 0x7f090040
 			public const int top = 2131296320;
@@ -5150,8 +5153,8 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f090016
 			public const int view_offset_helper = 2131296278;
 			
-			// aapt resource value: 0x7f0900ba
-			public const int visible = 2131296442;
+			// aapt resource value: 0x7f0900bb
+			public const int visible = 2131296443;
 			
 			// aapt resource value: 0x7f09003e
 			public const int withText = 2131296318;
@@ -5396,25 +5399,28 @@ namespace SnackPlanning.Droid
 			public const int notification_template_part_time = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int select_dialog_item_material = 2130968635;
+			public const int RegisterView = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int select_dialog_multichoice_material = 2130968636;
+			public const int select_dialog_item_material = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int select_dialog_singlechoice_material = 2130968637;
+			public const int select_dialog_multichoice_material = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int SplashScreen = 2130968638;
+			public const int select_dialog_singlechoice_material = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int support_simple_spinner_dropdown_item = 2130968639;
+			public const int SplashScreen = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int toolbar = 2130968640;
+			public const int support_simple_spinner_dropdown_item = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int tooltip = 2130968641;
+			public const int toolbar = 2130968641;
+			
+			// aapt resource value: 0x7f040042
+			public const int tooltip = 2130968642;
 			
 			static Layout()
 			{
@@ -5547,11 +5553,14 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0a0020
 			public const int character_counter_pattern = 2131361824;
 			
+			// aapt resource value: 0x7f0a002f
+			public const int createUserButtonLabel = 2131361839;
+			
 			// aapt resource value: 0x7f0a0027
 			public const int library_name = 2131361831;
 			
-			// aapt resource value: 0x7f0a002c
-			public const int loginButtonLabel = 2131361836;
+			// aapt resource value: 0x7f0a002d
+			public const int loginButtonLabel = 2131361837;
 			
 			// aapt resource value: 0x7f0a002b
 			public const int passwordLabel = 2131361835;
@@ -5571,8 +5580,11 @@ namespace SnackPlanning.Droid
 			// aapt resource value: 0x7f0a0025
 			public const int path_password_strike_through = 2131361829;
 			
-			// aapt resource value: 0x7f0a002d
-			public const int registerButtonLabel = 2131361837;
+			// aapt resource value: 0x7f0a002e
+			public const int registerButtonLabel = 2131361838;
+			
+			// aapt resource value: 0x7f0a002c
+			public const int repasswordLabel = 2131361836;
 			
 			// aapt resource value: 0x7f0a0011
 			public const int search_menu_title = 2131361809;

@@ -1,3 +1,6 @@
+using System;
+using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Net.Http.Headers;
 using System.Text;
 
@@ -26,10 +29,26 @@ namespace SnackPlanning.Core.ViewModels
         public IMvxCommand LoginCommand => new MvxCommand(Login);
         private async void Login()
         {
-            var isValid = Validate(new System.Collections.Generic.Dictionary<System.Linq.Expressions.Expression<System.Func<object>>, string>
+            var isValid = ValidationHelper.Validate(new Dictionary<Helpers.ValidationProperty, string>
             {
-                { () => Username, "Gebruikersnaam is verplicht." },
-                { () => Password, "Wachtwoord is verplicht." },
+                {
+                    new Helpers.ValidationProperty
+                    {
+
+                        Name = nameof(Username),
+                        Value = Username
+                    },
+                    "Gebruikersnaam is verplicht."
+                },
+                {
+                    new Helpers.ValidationProperty
+                    {
+
+                        Name = nameof(Password),
+                        Value = Password
+                    },
+                    "Wachtwoord is verplicht."
+                }
             });
 
             if(isValid)
@@ -54,7 +73,7 @@ namespace SnackPlanning.Core.ViewModels
         public IMvxCommand RegisterCommand => new MvxCommand(Register);
         private void Register()
         {
-
+            ShowViewModel<RegisterViewModel>();
         }
 
 
